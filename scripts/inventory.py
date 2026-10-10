@@ -16,7 +16,24 @@ from mdlinks import find_links, footnote_ref_sections, location_index  # noqa: E
 sys.stdout.reconfigure(encoding="utf-8")
 md_path, sitemap_path, out_dir = Path(sys.argv[1]), Path(sys.argv[2]), Path(sys.argv[3])
 out_dir.mkdir(parents=True, exist_ok=True)
-md = md_path.read_text(encoding="utf-8")
+
+
+def master_text(paper_dir: Path) -> str:
+    """paper/ (master files) -> one Markdown text: paper.md, then each list CSV as a section.
+    sefaria:<Ref> links are turned back into Sefaria URLs so they can be checked and mapped."""
+    import csv
+    import re
+
+    parts = [(paper_dir / "paper.md").read_text(encoding="utf-8")]
+    for f in sorted((paper_dir / "lists").glob("*.csv")):
+        parts.append(f"\n\n###### list:{f.stem} {{#list-{f.stem}}}\n")
+        for row in csv.DictReader(open(f, encoding="utf-8-sig")):
+            parts.append(f"{row['item']}\n\n{row['note']}\n")
+    text = "\n".join(parts)
+    return re.sub(r"\]\(sefaria:", "](https://www.sefaria.org/", text)
+
+
+md = master_text(md_path) if md_path.is_dir() else md_path.read_text(encoding="utf-8")
 sm = Sitemap(sitemap_path)
 locate = location_index(md)
 fn_section = footnote_ref_sections(md)

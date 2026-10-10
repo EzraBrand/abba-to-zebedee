@@ -126,6 +126,10 @@ for u in SEF:
     ref = r["sefaria_ref"]
     if not ref or r["bekiut_note"] == "keep:search-or-sheet":
         continue
+    if r["bekiut_kind"] == "jastrow":
+        # The text API returns no text for dictionary entries; the site links these to Bekiut's Jastrow.
+        result[u].update(check_status="ok", check_http="-", check_note="Jastrow entry; links to Bekiut")
+        continue
     a = sefaria_text(ref)
     if a["error"]:
         result[u].update(check_status="dead", check_http="api", check_note=f"Sefaria: {a['error']}")

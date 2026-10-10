@@ -1,0 +1,31 @@
+name: Monthly link check
+
+on:
+  schedule:
+    - cron: "17 4 1 * *"   # 04:17 UTC on the 1st of each month
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - run: pip install -r requirements.txt
+      - name: Link inventory from the master files
+        run: python -I scripts/inventory.py paper data/bekiut_sitemap_urls.txt reports
+      - name: Check links
+        run: python -I scripts/check_links.py reports/links_inventory.csv data/bekiut_sitemap_urls.txt reports
+      - name: Report
+        run: |
+          python -I scripts/check_hamichlol.py reports/link_check.csv
+          python -I scripts/link_report.py reports/link_check.csv reports/LINK_REPORT.md
+          cat reports/LINK_REPORT.md >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: link-report
+          path: |
+            reports/LINK_REPORT.md
+            reports/link_check.csv

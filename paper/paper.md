@@ -803,7 +803,7 @@ Yaakov Elman writes: “It should be recalled that R. Papa knows the difference 
 [^136]: There’s a traditionalist tendency to provide names where it’s missing. See the extensive list in Benizri, “Seder”, pp. 111-114 (“סימני זיהוי התנאים והאמוראים”). Ornstein in general systematically assumes that anonymous names were hidden on purpose. See his pronouncement in a footnote on the term ההוא סבא (p. 888, footnote 1). See also ibid. (p. 859ff) his speculation regarding the term ההוא כובס \- “a certain launderer”, as a codename throughout the Talmud for an agent of the Nasi. (Cf. TTA \- [תולדות תנאים ואמוראים/כ/כובס – ויקיטקסט](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%9B/%D7%9B%D7%95%D7%91%D7%A1)) However, the reasons he gives come from a more traditionalist perspective, and are not convincing from a critical perspective.  
     For a further illustration of the traditionalist tendency to provide names where it’s missing, compare the entry on “List of names for the Biblical nameless”, with discussion and sources:   
     [List of names for the biblical nameless \- Wikipedia](https://en.wikipedia.org/wiki/List_of_names_for_the_biblical_nameless)  
-    [שמות חיצוניים לדמויות אנונימיות במקרא – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A9%D7%9E%D7%95%D7%AA_%D7%97%D7%99%D7%A6%D7%95%D7%A0%D7%99%D7%99%D7%9D_%D7%9C%D7%93%D7%9E%D7%95%D7%99%D7%95%D7%AA_%D7%90%D7%A0%D7%95%D7%A0%D7%99%D7%9E%D7%99%D7%95%D7%AA_%D7%91%D7%9E%D7%A7%D7%A8%D7%90)  
+    [שמות חיצוניים לדמויות אנונימיות במקרא – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A9%D7%9E%D7%95%D7%AA_%D7%9C%D7%93%D7%9E%D7%95%D7%99%D7%95%D7%AA_%D7%90%D7%A0%D7%95%D7%A0%D7%99%D7%9E%D7%99%D7%95%D7%AA_%D7%91%D7%AA%D7%A0%22%D7%9A)  
     See also the tendency to identify figures with lesser-known names, with figures with more well-known names, discussed in an earlier section.
 
 [^138]: Cf.:  
@@ -818,7 +818,7 @@ Yaakov Elman writes: “It should be recalled that R. Papa knows the difference 
 [^153]: *TTA* has 67 entries starting with the given name or title Abba. *OD* has 72\.   
     Cf.   
     אורנשטיין, עמ' 99–111 ; לרנר, "לחקר"; [אבא (תואר כבוד) – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%90%D7%91%D7%90_\(%D7%AA%D7%95%D7%90%D7%A8_%D7%9B%D7%91%D7%95%D7%93\)).  
-     וראו עדי בלוט, "[טבי עבדו של רבן גמליאל](https://midrasha.biu.ac.il/files/midrasha/shared/tby_bdv_shl_rbn_gmlyl_dy_blvt_mvdknpdf.pdf)", *דרישה*, 1 (תשע"ו), עמ' 4:   
+     וראו עדי בלוט, "[טבי עבדו של רבן גמליאל](https://midrasha.biu.ac.il/sites/midrasha/files/shared/tby_bdv_shl_rbn_gmlyl_dy_blvt_mvdknpdf.pdf)", *דרישה*, 1 (תשע"ו), עמ' 4:   
     "בתקופת התנאים היה נהוג להשתמש בתואר "אבא פלוני" ו"אמא פלונית" כתואר של כבוד (בדומה לשימוש הנעשה כיום בכינויים: "מר פלוני" או "מרת פלונית").   
     כך למשל מצינו תנאים הנקראים אבא שאול, אבא בנימין, אבא חלקיה, אמורא הנקרא אבא אושעיא, אמא שלום (שהייתה אחותו של רבן גמליאל דיבנה) ועוד.   
     חכמים סייגו את השימוש בתארי כבוד אלה ואסרו את השימוש בהם לעבדים ושפחות \[...\]"  
@@ -979,7 +979,7 @@ Yaakov Elman writes: “It should be recalled that R. Papa knows the difference 
     Compare also this list: [קטגוריה:תארים ותפקידים יהודיים – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%AA%D7%90%D7%A8%D7%99%D7%9D_%D7%95%D7%AA%D7%A4%D7%A7%D7%99%D7%93%D7%99%D7%9D_%D7%99%D7%94%D7%95%D7%93%D7%99%D7%99%D7%9D)  
     On *makri, mashni, tana, amora,* see Zusman:   
     יעקב זוסמן, "'תורה שבעל פה' פשוטה כמשמעה : כוחו של קוצו של יו"ד", תשע"ט (נדפס לראשונה בתוך *מחקרי תלמוד* ג, תשס"ה, עמ' 209-‏384).   
-    On the *tana / tanai,* see recently Moulie Vidas, “[What is a tannay?](http://www.oqimta.org.il/oqimta/2021/vidas7.pdf)”, *Oqimta* 7 (2021). pp. 21-96.
+    On the *tana / tanai,* see recently Moulie Vidas, “[What is a tannay?](https://www.oqimta.org.il/oqimta/2021/vidas7.pdf)”, *Oqimta* 7 (2021). pp. 21-96.
 
 [^454]: [קטגוריה:קַטָּל (משקל) \- ויקימילון](https://he.wiktionary.org/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%A7%D6%B7%D7%98%D6%B8%D6%BC%D7%9C_\(%D7%9E%D7%A9%D7%A7%D7%9C\))
 
