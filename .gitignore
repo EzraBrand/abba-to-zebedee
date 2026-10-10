@@ -1,0 +1,10 @@
+# Rebuildable or downloaded data
+build/
+external/
+__pycache__/
+
+# Old PDF (v18.1, superseded by source/v18.2.md)
+source/*.pdf
+
+# API cache, rebuilt by scripts/check_links.py
+reports/sefaria_refs.json
