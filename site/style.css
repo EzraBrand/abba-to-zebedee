@@ -1,21 +1,20 @@
+/* One light theme only (no dark mode): warm off-white paper, dark grey text. */
 :root {
-  --text: #1d1d1f;
-  --muted: #5f6368;
-  --line: #e2e2e2;
-  --soft: #f6f6f4;
+  color-scheme: light;
+  --bg: #faf7f0;
+  --text: #2b2a27;
+  --muted: #6b675f;
+  --line: #e3ddd0;
+  --soft: #f1ece1;
   --accent: #1f5f8b;
-  --added: #fff5d6;
+  --added: #fbf0cf;
   --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif;
   --hebrew: "SBL Hebrew", "Taamey Frank CLM", "Frank Ruehl CLM", "David", "Times New Roman", serif;
   --sans: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
 }
-@media (prefers-color-scheme: dark) {
-  :root { --text: #e8e6e3; --muted: #a0a4a8; --line: #3a3a3c; --soft: #1f2023; --accent: #7cb7e8; --added: #3b3417; }
-  body { background: #151618; }
-}
 * { box-sizing: border-box; }
-html { scroll-padding-top: 4.5rem; }
-body { margin: 0; color: var(--text); font: 17px/1.6 var(--serif); }
+html { scroll-padding-top: 4.5rem; background: var(--bg); }
+body { margin: 0; color: var(--text); background: var(--bg); font: 17px/1.6 var(--serif); }
 a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 2px; }
 a[href^="https://bekiut.com"] { text-decoration-style: solid; }
 a[href^="https://www.sefaria.org"] { text-decoration-style: dotted; }
@@ -64,7 +63,9 @@ h1, h2, h3, h4 { font-family: var(--sans); font-weight: 600; }
 blockquote { margin: 1rem 0; padding: .2rem 1rem; border-left: 3px solid var(--line); color: var(--muted); }
 
 /* Name lists: a table made of grid rows */
-.name-list { margin: 1rem 0 1.6rem; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; font-size: 15.5px; }
+/* Lists and tables run right-to-left: first column (#) on the right. English notes inside
+   still read left-to-right, because each paragraph takes its own direction (plaintext). */
+.name-list { direction: rtl; margin: 1rem 0 1.6rem; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; font-size: 15.5px; background: #fffdf8; }
 .nl-row { display: grid; grid-template-columns: 3rem minmax(9rem, 15rem) minmax(0, 1fr); border-top: 1px solid var(--line); }
 .names-index .nl-row { grid-template-columns: minmax(8rem, 13rem) minmax(9rem, 15rem) minmax(0, 1fr); }
 .nl-row:first-child { border-top: 0; }
@@ -75,7 +76,7 @@ blockquote { margin: 1rem 0; padding: .2rem 1rem; border-left: 3px solid var(--l
 .nl-head > div { cursor: pointer; user-select: none; }
 .nl-head > div[aria-sort="ascending"]::after { content: " ▲"; }
 .nl-head > div[aria-sort="descending"]::after { content: " ▼"; }
-.nl-n { color: var(--muted); font: 13px/1.9 var(--sans); text-align: right; }
+.nl-n { color: var(--muted); font: 13px/1.9 var(--sans); text-align: center; }
 .nl-n a { color: inherit; text-decoration: none; }
 .nl-item { font-family: var(--hebrew); font-size: 1.12em; }
 .nl-note { font-size: .93em; color: var(--text); }
@@ -87,7 +88,7 @@ blockquote { margin: 1rem 0; padding: .2rem 1rem; border-left: 3px solid var(--l
 .hidden { display: none !important; }
 
 /* Data tables (frequency tables) */
-.data-table { overflow-x: auto; margin: 1rem 0 1.6rem; border: 1px solid var(--line); border-radius: 8px; max-height: 32rem; }
+.data-table { direction: rtl; background: #fffdf8; overflow-x: auto; margin: 1rem 0 1.6rem; border: 1px solid var(--line); border-radius: 8px; max-height: 32rem; }
 .data-table table { border-collapse: collapse; width: 100%; font: 14px/1.4 var(--sans); }
 .data-table th { position: sticky; top: 0; background: var(--soft); cursor: pointer; text-align: start; }
 .data-table th, .data-table td { padding: .3rem .6rem; border-bottom: 1px solid var(--line); }
