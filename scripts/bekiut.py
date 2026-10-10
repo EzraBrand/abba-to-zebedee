@@ -101,3 +101,28 @@ def to_bekiut(url: str, sm: Sitemap):
             anchor = f"#{m.group(3)}" if m.group(3) else ""
             return f"{BASE}/bible/{slug}/{m.group(2)}{anchor}", "bible", ref
     return None, "keep:not-on-bekiut", ref
+
+
+class Resolver:
+    """Resolve a stored ref (the part after "sefaria:") to the URL the site should link to."""
+
+    def __init__(self, sitemap_path: Path, overrides_path: Path):
+        import csv
+
+        self.sm = Sitemap(sitemap_path)
+        self.overrides = {}
+        if overrides_path.exists():
+            for row in csv.DictReader(open(overrides_path, encoding="utf-8-sig")):
+                self.overrides[row["ref"]] = row["url"]
+        self.stats = {}
+
+    def __call__(self, ref: str) -> str:
+        ref = ref.replace(" ", "_")
+        if ref in self.overrides:
+            kind, url = "override", self.overrides[ref]
+        else:
+            url, kind, _ = to_bekiut("https://www.sefaria.org/" + quote(ref, safe="_.,:'()-"), self.sm)
+            if not url:
+                kind, url = "sefaria", "https://www.sefaria.org/" + quote(ref, safe="_.,:'()-")
+        self.stats[kind] = self.stats.get(kind, 0) + 1
+        return url

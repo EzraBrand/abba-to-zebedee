@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>$if(pagetitle)$$pagetitle$$else$$title$$endif$</title>
+<meta name="author" content="$author$">
+<meta name="description" content="A survey of naming conventions in the Mishnah, Talmud, and late antique Midrash, with lists of names linked to the sources on Bekiut.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body data-page="$page$">
+<header class="site-header">
+  <a class="brand" href="index.html">From Abba to Zebedee</a>
+  <nav>
+    <a href="index.html">Paper</a>
+    <a href="names.html">All list items</a>
+    <a href="data/all-items.csv">Data (CSV)</a>
+  </nav>
+  <label class="filter">
+    <span class="sr-only">Filter names</span>
+    <input id="name-filter" type="search" placeholder="Filter names…" autocomplete="off" dir="auto">
+    <span id="filter-count" aria-live="polite"></span>
+  </label>
+</header>
+<div class="layout">
+$if(toc)$
+<nav id="toc" aria-label="Contents">
+  <h2>Contents</h2>
+  $table-of-contents$
+</nav>
+$endif$
+<main>
+$if(toc)$
+<header class="title-block">
+  <h1 class="title">$title$</h1>
+  <p class="byline">$author$ · version $version$</p>
+  <p class="note-links">Links to the Talmud, Mishnah, Bible and Jastrow open on <a href="https://bekiut.com">Bekiut</a>; other texts open on Sefaria.</p>
+</header>
+$endif$
+$if(toc)$$else$
+<header class="title-block">
+  <h1 class="title">All list items</h1>
+  <p class="byline">Every item of every list in <a href="index.html">the paper</a>, with its section. Use the filter box above; click a column title to sort.</p>
+</header>
+$endif$
+$body$
+</main>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
