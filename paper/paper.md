@@ -206,11 +206,19 @@ X \= occupation
 
 {{list:individuals}}
 
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:individuals-candidates}}
+
 ### Groups[^102] {#groups}
 
 X \= toponym or famous figure
 
 {{list:groups}}
+
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:groups-candidates}}
 
 #### Family/House/Clan names[^118] {#family-house-clan-names}
 
@@ -218,11 +226,19 @@ X \= toponym or famous figure
 
 {{list:family-house-clan-names}}
 
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:family-house-clan-names-candidates}}
+
 #### Family/House/Clan names of Kohanim {#family-house-clan-names-of-kohanim}
 
 See Tal, vol. 4, intro, on family names of Kohanim.[^128]   
 
 {{list:family-house-clan-names-of-kohanim}}
+
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:family-house-clan-names-of-kohanim-candidates}}
 
 ### Talmud’s Identification of Anonymous Descriptors[^136] {#talmuds-identification-of-anonymous-descriptors}
 
@@ -232,6 +248,10 @@ The Talmud lists a large number of standard formulations used to introduce state
 
 See also [Bava\_Kamma.103b.11](sefaria:Bava_Kamma.103b.11):  
  “ כל היכא דאמרינן ״מעשה בחסיד אחד״ – או רבי יהודה בן בבא, או רבי יהודה ברבי אילעאי”
+
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:talmuds-identification-of-anonymous-descriptors-candidates}}
 
 ## Placeholder name {#placeholder-name}
 
@@ -252,9 +272,17 @@ Often these anonymous names are later (likely the Stam, and likely speciously) i
 
 {{list:individual}}
 
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:individual-candidates}}
+
 ### Multiple {#multiple}
 
 {{list:multiple}}
+
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:multiple-candidates}}
 
 # Prefix \- Honorific[^146] {#prefix-honorific}
 
@@ -267,6 +295,10 @@ Title or honorific preceding name. Generally used as a prefix/title preceding a 
 רב   
 
 {{list:rabbi-rav-rabban-rabbana-beribi-2}}
+
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:rabbi-rav-rabban-rabbana-beribi-candidates}}
 
 ## Abba {#abba}
 
@@ -296,6 +328,10 @@ Klein posits that the name “Abba” is a shortening of “Abraham”.[^155] Ho
 
 {{list:abba-given-name}}
 
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:abba-given-name-candidates}}
+
 ### Abba \+ other honorific {#abba-other-honorific}
 
 {{list:abba-other-honorific}}
@@ -315,6 +351,10 @@ Klein posits that the name “Abba” is a shortening of “Abraham”.[^155] Ho
 ### As a given name {#as-a-given-name}
 
 {{list:as-a-given-name}}
+
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:as-a-given-name-candidates}}
 
 ## Aha {#aha}
 
@@ -352,6 +392,10 @@ As an honorific:
 As a given name: 
 
 {{list:mar-2}}
+
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:mar-candidates}}
 
 ## No honorific {#no-honorific}
 
@@ -399,6 +443,10 @@ Examples of surnames etymologized by the Talmud: [^194]
 
 See also in this study, in the section “Pseudonym”. 
 
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:etiological-explanations-provided-by-the-talmud-candidates}}
+
 ## Patronymic and Other Familial Relations {#patronymic-and-other-familial-relations}
 
 ### Patronymic {#patronymic}
@@ -411,6 +459,10 @@ See also in this study, in the section “Pseudonym”.
 ברבי X [^201]  
 בריה דX  
 בנו של[^202]
+
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:patronymic-candidates}}
 
 ### Patronymic, Not Father's Name {#patronymic-not-fathers-name}
 
@@ -430,6 +482,10 @@ Examples:
 
 {{list:matronymic}}
 
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:matronymic-candidates}}
+
 ### Papponymic {#papponymic}
 
 [Papponymic \- Wikipedia](https://en.wikipedia.org/wiki/Papponymic):   
@@ -443,9 +499,17 @@ Examples:
 “Teknonymy \[...\] is the practice of referring to parents by the names of their children.”  
 אבוה / אבוי דX[^238]
 
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:teknonymy-candidates}}
+
 ### Other Familial Relationships {#other-familial-relationships}
 
 {{list:other-familial-relationships}}
+
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:other-familial-relationships-candidates}}
 
 ## Toponymic Surnames {#toponymic-surnames}
 
@@ -472,6 +536,10 @@ For the toponyms mentioned in the following surnames, see my “[An Annotated Li
 
 {{list:ha-x-i}}
 
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:ha-x-i-candidates}}
+
 ### X-i[^271] {#x-i}
 
 {{list:x-i}}
@@ -480,17 +548,33 @@ For the toponyms mentioned in the following surnames, see my “[An Annotated Li
 
 {{list:ish-x}}
 
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:ish-x-candidates}}
+
 ### mi-X[^315] {#mi-x}
 
 {{list:mi-x}}
+
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:mi-x-candidates}}
 
 ### d’-X {#d-x}
 
 {{list:d-x}}
 
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:d-x-candidates}}
+
 ### d’min-X {#dmin-x}
 
 {{list:dmin-x}}
+
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:dmin-x-candidates}}
 
 ### X-ah[^400] {#x-ah}
 
@@ -514,6 +598,10 @@ For the toponyms mentioned in the following surnames, see my “[An Annotated Li
 
 {{list:pattern-katal}}
 
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:pattern-katal-candidates}}
+
 ### Pattern \- katlan[^469] {#pattern-katlan}
 
 {{list:pattern-katlan}}
@@ -530,9 +618,17 @@ For the toponyms mentioned in the following surnames, see my “[An Annotated Li
 
 {{list:other}}
 
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:other-candidates}}
+
 ### Non-Semitic word {#non-semitic-word}
 
 {{list:non-semitic-word}}
+
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:non-semitic-word-candidates}}
 
 ## Other surnames {#other-surnames}
 
@@ -544,6 +640,10 @@ See [Surname \- Wikipedia](https://en.wikipedia.org/wiki/Surname#Occupational) \
 
 {{list:title}}
 
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:title-candidates}}
+
 ## “Elder”, “Younger”, “Great”, “Small”[^513] {#elder-younger-great-small}
 
 {{list:elder-younger-great-small}}
@@ -554,17 +654,29 @@ See [Surname \- Wikipedia](https://en.wikipedia.org/wiki/Surname#Occupational) \
 
 {{list:elder-younger-great-small-2}}
 
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:elder-younger-great-small-candidates}}
+
 ## Surnames Related to Personal Status, Personality, and Physical Traits {#surnames-related-to-personal-status-personality-and-physical-traits}
 
 ### Personal status {#personal-status}
 
 {{list:personal-status}}
 
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:personal-status-candidates}}
+
 ### Personality {#personality}
 
 Klein, p. 350\.  
 
 {{list:personality}}
+
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:personality-candidates}}
 
 ### Physical trait {#physical-trait}
 
@@ -616,6 +728,10 @@ Only in Tannaitic period: Gamliel ; Yishmael ; Hanania. Only in Amoraic period: 
 
 {{list:hebrew-origin}}
 
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:hebrew-origin-candidates}}
+
 ### Aramaic origin, with possible etymology {#aramaic-origin-with-possible-etymology}
 
 Bareket, “Name”:   
@@ -624,6 +740,10 @@ Kaganoff, “Names”:
 “We find many names in Ezra, Nehemiah, and Chronicles with the Aramaic ending ‘*ai’*. Even names that have a Hebrew root are converted into an Aramaic form, as for example: Piltai (from Pelatiah), Shammai (from Shemaiah), Atlai (from Ataliah), and a name which has been much in the public eye, Adlai (from Adaliah). We also come across names entirely and directly Aramaic, as well as names borrowed by the Jews from neighboring peoples. Persian-Babylonian names, brought back from the Exile, make their first appearance at this time. Two names in this last category, Mordecai and Shabbetai, have remained popular to this day despite their pagan origin.”
 
 {{list:aramaic-origin-with-possible-etymology}}
+
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:aramaic-origin-with-possible-etymology-candidates}}
 
 ### Fathers’ names, by frequency {#fathers-names-by-frequency}
 
@@ -653,12 +773,21 @@ Examples:[^695]
 
 {{list:greek-and-latin-origin}}
 
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:greek-and-latin-origin-candidates}}
+
 ### Persian origin {#persian-origin}
 
 See Bavli, [Gittin 11a](sefaria:Gittin.11a.2):   
 היכי דמי שמות מובהקין? אמר רב פפא, כגון: הורמיז, ואבודינא, בר שיבתאי, ובר קידרי, ובאטי, ונקים אונא.  
 The Gemara clarifies: What are the circumstances of unambiguous gentile names? Rav Pappa said: This is referring to names such as Hurmiz, and Abbudina, bar Shibbetai, and bar Kidri, and Bati, and Nakim Una.  
 Yaakov Elman writes: “It should be recalled that R. Papa knows the difference between names that are used by both Jews and non-Jews and names that are unambiguously non-Jewish – Hannez, Abudina, Bar Shibtai, Bar Qidri, Bati, Naqim, and Una (B. Gittin 11a).”[^735]
+
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:persian-origin-candidates}}
+
 
 [^1]: See my “[Two Major Medieval Sources on Amoraic Chronology: R' Avraham ibn Daud's Sefer HaKabbalah and Meiri's 'Intro' to Commentary on Avot](https://www.academia.edu/109855855/Two_Major_Medieval_Sources_on_Amoraic_Chronology_R_Avraham_ibn_Dauds_Sefer_HaKabbalah_and_Meiris_Intro_to_Commentary_on_Avot)”.
 

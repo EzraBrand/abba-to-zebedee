@@ -120,8 +120,12 @@
       entries.forEach((en) => {
         if (en.isIntersecting) {
           links.forEach((a) => a.classList.remove("active"));
+          toc.querySelectorAll("li.active-parent").forEach((li) => li.classList.remove("active-parent"));
           const a = links.get(en.target.id);
           a.classList.add("active");
+          for (let li = a.parentElement.parentElement.closest("li"); li; li = li.parentElement.closest("li")) {
+            li.classList.add("active-parent");
+          }
           a.scrollIntoView({ block: "nearest" });
         }
       });

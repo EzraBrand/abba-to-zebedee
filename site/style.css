@@ -8,13 +8,14 @@
   --soft: #f1ece1;
   --accent: #1f5f8b;
   --added: #fbf0cf;
-  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif;
-  --hebrew: "SBL Hebrew", "Taamey Frank CLM", "Frank Ruehl CLM", "David", "Times New Roman", serif;
-  --sans: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  /* Inter has no Hebrew glyphs, so Hebrew text falls through to Assistant. */
+  --serif: "Inter", "Assistant", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+  --hebrew: "Assistant", "Inter", system-ui, Arial, sans-serif;
+  --sans: "Inter", "Assistant", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
 }
 * { box-sizing: border-box; }
 html { scroll-padding-top: 4.5rem; background: var(--bg); }
-body { margin: 0; color: var(--text); background: var(--bg); font: 17px/1.6 var(--serif); }
+body { margin: 0; color: var(--text); background: var(--bg); font: 16px/1.65 var(--serif); }
 a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 2px; }
 a[href^="https://bekiut.com"] { text-decoration-style: solid; }
 a[href^="https://www.sefaria.org"] { text-decoration-style: dotted; }
@@ -47,9 +48,12 @@ body[data-page="names"] .layout { grid-template-columns: minmax(0, 1fr); max-wid
 #toc ul { list-style: none; padding-left: .8rem; margin: 0; }
 #toc > ul { padding-left: 0; }
 #toc li { margin: .15rem 0; }
-#toc a { color: var(--text); text-decoration: none; }
-#toc a:hover, #toc a.active { color: var(--accent); }
-#toc a.active { font-weight: 600; }
+#toc a { display: block; padding: .1rem .45rem; border-left: 3px solid transparent; border-radius: 0 4px 4px 0;
+  color: var(--text); text-decoration: none; }
+#toc a:hover { color: var(--accent); }
+#toc a.active { color: var(--accent); font-weight: 700; border-left-color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 12%, transparent); }
+#toc li.active-parent > a { color: var(--accent); font-weight: 600; }
 
 main { min-width: 0; max-width: 52rem; padding: 1.5rem 0 6rem; }
 body[data-page="names"] main { max-width: none; }
