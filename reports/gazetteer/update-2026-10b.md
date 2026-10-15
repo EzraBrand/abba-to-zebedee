@@ -13,14 +13,16 @@ most 'name + second word' rows were misalignments of bare 'Title + Name' entries
 checked that every example segment contains its Hebrew form (0 mismatches here and in the five
 10-Oct passes).
 
-45 rows in `update-2026-10b.csv`: **27 new**, 6 uncertain, 11 variant-of-existing, 1 already-in-paper.
+45 rows in `update-2026-10b.csv`: **22 new**, 7 uncertain, 13 variant-of-existing, 3 already-in-paper.
 
 New items:
 - Patronymic Alone, No Given Name (18): בר קמצא, בן סירא, בן בתירא (used alone), בן קטין, בן דרוסאי,
   בן אלעשה, בן קמצר, בן ביבאי, בן ארזא, בן מגוסת, בן דונאי, בן תמליון (a demon), בן אבטיח, בן תדל,
   בר פיולי, בר ביניתוס, בר שישך, בר קיפוק / קיפוף.
-- Given names not in the paper: פדת (20 segments), אביתר, יחזקאל, שעורים (Hebrew origin); שזבי, סמיא (Aramaic).
-- Personality: שבתאי אצר פירי. Title: הסגן (רבי שמעון הסגן). Pseudonyms and Epithets: יוסף שידא.
+- Given names not in the paper: פדת (20 segments), אביתר, יחזקאל (Hebrew origin).
+- Pseudonyms and Epithets: יוסף שידא.
 
 Variants of existing items: בר תאוטני / תוטיני (listed בר תוטני), בן דמא (listed בן דמה),
-בר המדודי (listed המדורי), זוטראי, מנשי, אילפי, יודאפה, קרחינא, אבא סקרא.
+בר המדודי (listed המדורי), זוטראי, מנשי, אילפי, יודאפה, קרחינא, אבא סקרא, and (corrected later on 15-Oct)
+שזבי (listed רב שיזבי), שעורים (listed רב סעורם). Already in the paper: אצר פירי (listed אוצר פירי),
+הסגן (Non-Semitic word). סמיא is uncertain: possibly the listed סמא / סימאי.
