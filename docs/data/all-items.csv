@@ -584,6 +584,12 @@ contraction-of-an-honorific-3,Contraction of an honorific,40,שילא מרי,,,
 contraction-of-an-honorific-3,Contraction of an honorific,41,שמואל,,,
 contraction-of-an-honorific-3,Contraction of an honorific,42,שמואל הזקן,,,
 contraction-of-an-honorific-3,Contraction of an honorific,43,שמעון בר חייא,,,
+contraction-of-an-honorific-candidates,Contraction of an honorific,1,דרו בר פפא,"Bavli: [Avodah Zarah 27a:8](sefaria:Avodah_Zarah.27a.8) (2 segments). Gazetteer: “Daru bar Pappa”. Transmits from Rav with no title: 'דרו בר פפא משמיה דרב אמר'. For the list of figures with no rabbi honorific. (Fringes’ דרו / דארו is Rav Naḥman’s servant, a different man.)",gazetteer candidate,pending
+contraction-of-an-honorific-candidates,Contraction of an honorific,2,גורסק בר דרי,Bavli: [Eruvin 29a:9](sefaria:Eruvin.29a.9) (1 segments). Gazetteer: “Gursak bar Darei”. 'ואמר גורסק בר דרי משמיה דרב מנשיא בר שגובלי'. No title.,gazetteer candidate,pending
+contraction-of-an-honorific-candidates,Contraction of an honorific,3,חילפא בר אגרא,Bavli: [Shabbat 105b:8](sefaria:Shabbat.105b.8) (2 segments). Gazetteer: “Ḥilfa bar Agra”. 'רבי שמעון בן אלעזר אומר משום חילפא בר אגרא'. No title.,gazetteer candidate,pending
+contraction-of-an-honorific-candidates,Contraction of an honorific,4,רכיש בר פפא,Bavli: [Chullin 42b:7](sefaria:Chullin.42b.7) (3 segments). Gazetteer: “Rakhish bar Pappa”. 'ואמר רכיש בר פפא משמיה דרב'. No title.,gazetteer candidate,pending
+contraction-of-an-honorific-candidates,Contraction of an honorific,5,חזקיה בר בילוטו,Bavli: [Arakhin 28b:8](sefaria:Arakhin.28b.8) (1 segments). Gazetteer: “Ḥizkiyya bar Biluto”. 'שמעה חזקיה בר בילוטו ואזל אמר קמיה דרבי אבהו'. No title.,gazetteer candidate,pending
+contraction-of-an-honorific-candidates,Contraction of an honorific,6,יונתן הקיטוני,Bavli: [Eruvin 96a:11](sefaria:Eruvin.96a.11) (1 segments). Gazetteer: “Yonatan HaKitoni”. 'יונתן הקיטוני אומר'. A tanna with no title. (The toponymic pass of 10-Oct left הקיטוני as an uncertain ha-X-i form.),gazetteer candidate,pending
 etiological-explanations-provided-by-the-talmud,Etiological Explanations Provided by the Talmud,1,המעגל,"[חוני המעגל – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A0%D7%99_%D7%94%D7%9E%D7%A2%D7%92%D7%9C). אורנשטיין, עמ’ 1589 ואילך.",,
 etiological-explanations-provided-by-the-talmud,Etiological Explanations Provided by the Talmud,2,(בן) כלבא שבוע,,,
 etiological-explanations-provided-by-the-talmud,Etiological Explanations Provided by the Talmud,3,"(שמואל) הקטן ([שמואל הקטן – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A9%D7%9E%D7%95%D7%90%D7%9C_%D7%94%D7%A7%D7%98%D7%9F): ""לפשר כינויו ""הקטן"" מביא התלמוד הירושלמי שני הסברים: ""לפי שהיה מקטין עצמו"" ונוהג בענווה, ו""לפי שמעט (בלבד) היה קטן משמואל הרמתי"" )",,,
@@ -1928,6 +1934,7 @@ list-of-named-jewish-commoners-candidates,List of Named Jewish Commoners,5,כי�
 list-of-named-jewish-commoners-candidates,List of Named Jewish Commoners,6,לולינוס ופפוס,"Bavli: [Taanit 18b:8](sefaria:Taanit.18b.8) (1 segments). Gazetteer: “Luleyanus”. Martyred brothers: 'כשבקש טוריינוס להרוג את לולינוס ופפוס אחיו בלודקיא'. The paper lists the names only for their Greek origin (לוליאנוס, פפוס).",gazetteer candidate,pending
 list-of-named-jewish-commoners-candidates,List of Named Jewish Commoners,7,בר קיפוק / בר קיפוף,Bavli: [Moed Katan 25b:6](sefaria:Moed_Katan.25b.6) (2 segments). Gazetteer: “bar Kippok”. The eulogizer. Not in the Fringes lists.,gazetteer candidate,pending
 list-of-named-jewish-commoners-candidates,List of Named Jewish Commoners,8,בן דונאי,Bavli: [Ketubot 27a:6](sefaria:Ketubot.27a.6) (1 segments). Gazetteer: “ben Donai”. 'אשתו של בן דונאי' (a robber condemned to death). Not in the Fringes lists.,gazetteer candidate,pending
+list-of-named-jewish-commoners-candidates,List of Named Jewish Commoners,9,משה בר עצרי,"Bavli: [Bava Batra 174b:9](sefaria:Bava_Batra.174b.9) (2 segments). Gazetteer: “Moshe bar Atzari”. 'משה בר עצרי ערבא דכתובתה דכלתיה הוה, רב הונא בריה צורבא מדרבנן הוה' – Rav Huna’s father, a guarantor.",gazetteer candidate,pending
 list-of-named-jewish-women,List of Named Jewish Women,1,איכו,[תולדות תנאים ואמוראים/א/איכו (שם אשה) – ויקיטקסט](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%90/%D7%90%D7%99%D7%9B%D7%95_\(%D7%A9%D7%9D_%D7%90%D7%A9%D7%94\)),,
 list-of-named-jewish-women,List of Named Jewish Women,2,אימא מרים,[Ketubot.87a.9](sefaria:Ketubot.87a.9) \- “אמר רב נחמן אמר שמואל משום אבא שאול בן אימא מרים”,,
 list-of-named-jewish-women,List of Named Jewish Women,3,אימא שלום,,,
@@ -1939,7 +1946,9 @@ list-of-named-jewish-women,List of Named Jewish Women,8,בלוריא הגיור�
 list-of-named-jewish-women,List of Named Jewish Women,9,ברוריה,[ברוריה – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%91%D7%A8%D7%95%D7%A8%D7%99%D7%94),,
 list-of-named-jewish-women,List of Named Jewish Women,10,דונג,"[Kiddushin.70a.16](sefaria:Kiddushin.70a.16) \- “אמר ליה: תיתי דונג תשקינן”  
 Probably equivalent to the name *Denag*, which was the name of a few Sasanian queens, see [Denag \- Wikipedia](https://en.wikipedia.org/wiki/Denag) and [Denag (sister of Ardashir I) \- Wikipedia](https://en.wikipedia.org/wiki/Denag_\(sister_of_Ardashir_I\))",,
-list-of-named-jewish-women,List of Named Jewish Women,11,הלני,[הלני המלכה – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%94%D7%9C%D7%A0%D7%99_%D7%94%D7%9E%D7%9C%D7%9B%D7%94),,
+list-of-named-jewish-women,List of Named Jewish Women,11,הלני,"[הלני המלכה – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%94%D7%9C%D7%A0%D7%99_%D7%94%D7%9E%D7%9C%D7%9B%D7%94)
+
+Bavli: [Nazir 19b:8](sefaria:Nazir.19b.8) ('מעשה בהילני המלכה'; the Bavli spells הילני).",,
 list-of-named-jewish-women,List of Named Jewish Women,12,חובה,אשת רב הונא \- ראו [רב הונא – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91_%D7%94%D7%95%D7%A0%D7%90),,
 list-of-named-jewish-women,List of Named Jewish Women,13,חומא,[חומא – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%9E%D7%90),,
 list-of-named-jewish-women,List of Named Jewish Women,14,חנה,"[Taanit.23b.13](sefaria:Taanit.23b.13) \-  
@@ -1970,7 +1979,9 @@ list-of-named-jewish-women,List of Named Jewish Women,25,נפאתה,"[Gittin.63b
 list-of-named-jewish-women,List of Named Jewish Women,26,פזי,"[Yevamot.65b.18](sefaria:Yevamot.65b.18) \- “דאמר מר: יהודה וחזקיה אחי, פזי וטוי אחוותא.”",,
 list-of-named-jewish-women,List of Named Jewish Women,27,צפנת,[צפנת בת פניאל – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A6%D7%A4%D7%A0%D7%AA_%D7%91%D7%AA_%D7%A4%D7%A0%D7%99%D7%90%D7%9C),,
 list-of-named-jewish-women,List of Named Jewish Women,28,קמחית,[קמחית (אם הכהנים הגדולים) – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A7%D7%9E%D7%97%D7%99%D7%AA_\(%D7%90%D7%9D_%D7%94%D7%9B%D7%94%D7%A0%D7%99%D7%9D_%D7%94%D7%92%D7%93%D7%95%D7%9C%D7%99%D7%9D\)),,
-list-of-named-jewish-women,List of Named Jewish Women,29,שלומציון,[שלומציון המלכה – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A9%D7%9C%D7%95%D7%9E%D7%A6%D7%99%D7%95%D7%9F_%D7%94%D7%9E%D7%9C%D7%9B%D7%94),,
+list-of-named-jewish-women,List of Named Jewish Women,29,שלומציון,"[שלומציון המלכה – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A9%D7%9C%D7%95%D7%9E%D7%A6%D7%99%D7%95%D7%9F_%D7%94%D7%9E%D7%9C%D7%9B%D7%94)
+
+Bavli: [Shabbat 16b:2](sefaria:Shabbat.16b.2) ('מעשה בשלציון המלכה'; the Bavli spells שלציון).",,
 list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",1,אבלט,[תולדות תנאים ואמוראים/א/אבלט – ויקיטקסט](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%90/%D7%90%D7%91%D7%9C%D7%98),,
 list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",2,אגרדמיס טייעא,[Bava\_Kamma.98a.2](sefaria:Bava_Kamma.98a.2),,
 list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",3,אגריפס,,,
@@ -1985,7 +1996,9 @@ On Ursicinus, see also later.",,
 list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",7,אפרא הורמיז,"[תולדות תנאים ואמוראים/א/אפרא הורמיז אימיה דשבור מלכא, מלך פרס – ויקיטקסט](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%90/%D7%90%D7%A4%D7%A8%D7%90_%D7%94%D7%95%D7%A8%D7%9E%D7%99%D7%96_%D7%90%D7%99%D7%9E%D7%99%D7%94_%D7%93%D7%A9%D7%91%D7%95%D7%A8_%D7%9E%D7%9C%D7%9B%D7%90,_%D7%9E%D7%9C%D7%9A_%D7%A4%D7%A8%D7%A1). ושם כתב: ""והיטב כיון הגאון שי""ר בערך מלין צד 182 שאפרא הוא לשון פרסית ""אשת"" הורמיז המלך. ובנה שבור מלכא נתקסר בעודו בבטן אמו ואמו משלה בשמו עד אשר נתגדל כדמובא בדה""י למלכי פרס.""  
 There were many Sasanid kings named Shapur and Hormizd, see [Sasanian family tree \- Wikipedia](https://en.wikipedia.org/wiki/Sasanian_family_tree). The best fit for this explanation is that she was the wife of [Hormizd II](https://en.wikipedia.org/wiki/Hormizd_II), and the mother of [Shapur II](https://en.wikipedia.org/wiki/Shapur_II) (known as Shapur the Great).",,
 list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",8,אלכסנדר מוקדון,"[קטגוריה:אלכסנדר מוקדון – ויקיטקסט](https://he.wikisource.org/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%90%D7%9C%D7%9B%D7%A1%D7%A0%D7%93%D7%A8_%D7%9E%D7%95%D7%A7%D7%93%D7%95%D7%9F)  
-OD \# 410\.",,
+OD \# 410\.
+
+Bavli: [Sanhedrin 91a:6](sefaria:Sanhedrin.91a.6) (the Bavli spells אלכסנדרוס מוקדון).",,
 list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",9,אנטונינוס,"[רבי יהודה הנשיא – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%99%D7%94%D7%95%D7%93%D7%94_%D7%94%D7%A0%D7%A9%D7%99%D7%90#%D7%90%D7%A0%D7%98%D7%95%D7%A0%D7%99%D7%A0%D7%95%D7%A1_%D7%95%D7%A8%D7%91%D7%99) \> ""אנטונינוס ורבי""  
 OD \# 520\.",,
 list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",10,אנטיגנס / אגנטוס הגמון,"[Jerusalem\_Talmud\_Sanhedrin.1.4.10](sefaria:Jerusalem_Talmud_Sanhedrin.1.4.10). See  Levin, p. 51 footnote 34\.",,
@@ -2001,7 +2014,7 @@ list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women"
 OD \# 554\.",,
 list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",15,ארטבן / ארטבון / ארטבלון,"[תולדות תנאים ואמוראים/א/ארטבון – ויקיטקסט](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%90/%D7%90%D7%A8%D7%98%D7%91%D7%95%D7%9F)  
 Cf. [Artabanus IV of Parthia \- Wikipedia](https://en.wikipedia.org/wiki/Artabanus_IV_of_Parthia)",,
-list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",16,אריסטובולוס,,,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",16,אריסטובולוס,Bavli: [Bava Kamma 82b:16](sefaria:Bava_Kamma.82b.16) ('הורקנוס ואריסטובלוס'); also [Menachot 64b:5](sefaria:Menachot.64b.5).,,
 list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",17,ארנבת,"[Megillah.9b.3](sefaria:Megillah.9b.3):  
 “אשתו של תלמי ארנבת שמה”  
 It’s most likely, based on context, that “Arnevet” is the translation of her name from Greek, not a transliteration. See Norman Solomon, *Talmud*, for an explanation of this passage.   

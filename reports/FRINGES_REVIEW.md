@@ -11,11 +11,15 @@ from 1001. The hand-made outline is dropped (the site builds the table of conten
 - אפרא הורמיז: in Jewish Women and in Non-Jews. She was the mother of Shapur II, so Non-Jews only?
 
 ## Items with no source in their note
-These have no reference at all: בן לענא, בר לופייני (Commoners); הלני, שלומציון (Women); אלכסנדר מוקדון,
-אנטיוכוס, ארטבן, אריסטובולוס, דיקליטינוס, המירס, קיטוס (Non-Jews). Bavli sources for three:
-- הלני: the Bavli spells הילני ('מעשה בהילני המלכה', Nazir 19b:8; 6 segments).
-- אלכסנדר מוקדון: the Bavli spells אלכסנדרוס מוקדון (Sanhedrin 91a:6; 9 segments).
-- ברוריה: the Bavli spells ברוריא (Avodah Zarah 18a:14).
+These had no Sefaria reference: בן לענא, בר לופייני (Commoners); הלני, שלומציון (Women); אלכסנדר מוקדון,
+אנטיוכוס, ארטבן, אריסטובולוס, דיקליטינוס, המירס, קיטוס (Non-Jews).
+Added 15-Oct (in each item's note), at the author's request:
+- הלני: Nazir 19b:8 ('מעשה בהילני המלכה'; the Bavli spells הילני).
+- שלומציון: Shabbat 16b:2 (the Bavli spells שלציון).
+- אלכסנדר מוקדון: Sanhedrin 91a:6 (the Bavli spells אלכסנדרוס מוקדון).
+- אריסטובולוס: Bava Kamma 82b:16 ('הורקנוס ואריסטובלוס'); also Menachot 64b:5.
+Not in the Bavli under any spelling tried: בן לענא, בר לופייני, אנטיוכוס, ארטבן, דיקליטינוס, המירס, קיטוס.
+Also: the Bavli spells ברוריה as ברוריא (Avodah Zarah 18a:14).
 
 ## Not in the Bavli (fine: the note cites the Yerushalmi or the Tosefta)
 Commoners: בן קדירה, בר זיזא, בר נטוזא, בר פטא, בר תרימה, דמיטיניס. Non-Jews: אנטיגנס הגמון, ארסקינס,
@@ -28,5 +32,6 @@ etymology lists (אגריפס, הורדוס, ניקנור, זונין, אנטי�
 
 ## Possible additions (gazetteer pass update-2026-10d, pending review)
 - Commoners: קמצא, פינקאי, ערסלא, פוגא, כייליל, לולינוס ופפוס, בר קיפוק, בן דונאי.
-- Non-Jews: אדרכן, אבידרנא, מבגאי.
+- Non-Jews: אדרכן, אבידרנא, מבגאי; צימצמאי מלכתא (uncertain, update-2026-10e).
+- Commoners (update-2026-10e): משה בר עצרי.
 - Angels and demons (outside the list's criterion, so uncertain): דוביאל, יורקמו, שיבתא.

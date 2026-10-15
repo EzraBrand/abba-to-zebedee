@@ -448,6 +448,10 @@ Other figures with there’s no “rabbi” honorific, where it’s unclear why:
 
 The name עולא seems to be over-represented in this lists. Maybe the name עולא is itself a kind of honorific, like אבא or מר ? It could be that it’s related to the word עילאי, meaning “elite; elevated”.[^193] 
 
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:contraction-of-an-honorific-candidates}}
+
 # Surnames and Their Origins {#surnames-and-their-origins}
 
 ## Etiological Explanations Provided by the Talmud {#etiological-explanations-provided-by-the-talmud}

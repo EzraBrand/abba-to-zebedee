@@ -13,7 +13,8 @@ Five passes (10-Oct-2026) compared the [talmud-nlp-indexer gazetteers](https://g
 | update-2026-10b | 4 | 9 | 14 | 18 | [update-2026-10b.md](update-2026-10b.md) |
 | update-2026-10c | 0 | 0 | 3 | 0 | [update-2026-10c.md](update-2026-10c.md) |
 | update-2026-10d | 20 | 4 | 4 | 3 | [update-2026-10d.md](update-2026-10d.md) |
-| **total** | **152** | **90** | **87** | **172** | |
+| update-2026-10e | 7 | 3 | 2 | 2 | [update-2026-10e.md](update-2026-10e.md) |
+| **total** | **159** | **93** | **89** | **174** | |
 
 Only `new` rows are in the paper, as *candidate* lists (`paper/lists/*-candidates.csv`), at the end of their section, marked `review = pending`. To accept a row, move it into the main list of that section and clear `added` and `review`; to reject it, delete it. `uncertain` and `variant-of-existing` rows are only in these CSVs; the notes say why.
 
