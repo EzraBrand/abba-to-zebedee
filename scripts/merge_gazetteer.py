@@ -49,6 +49,46 @@ def ref_to_sefaria(ref: str) -> str:
     return f"{m.group(1).replace(' ', '_')}.{m.group(2)}.{m.group(3)}" if m else ""
 
 
+TRACTATES = ["Arakhin", "Avodah Zarah", "Bava Batra", "Bava Kamma", "Bava Metzia", "Beitzah", "Bekhorot",
+             "Berakhot", "Chagigah", "Chullin", "Eruvin", "Gittin", "Horayot", "Keritot", "Ketubot", "Kiddushin",
+             "Makkot", "Megillah", "Meilah", "Menachot", "Moed Katan", "Nazir", "Nedarim", "Niddah", "Pesachim",
+             "Rosh Hashanah", "Sanhedrin", "Shabbat", "Shevuot", "Sotah", "Sukkah", "Taanit", "Tamid", "Temurah",
+             "Yevamot", "Yoma", "Zevachim"]
+ABBREV = {"AZ": "Avodah Zarah", "BB": "Bava Batra", "BK": "Bava Kamma", "BM": "Bava Metzia", "MK": "Moed Katan"}
+NOTE_REF = re.compile(r"(?<![\w\[:/])(" + "|".join(sorted(TRACTATES + list(ABBREV), key=len, reverse=True))
+                      + r") (\d+[ab](?::\d+)?)((?:(?:,\s*|\s+and\s+|,\s*and\s+)\d+[ab](?::\d+)?)*)(?![\w\]])")
+ONE_REF = re.compile(r"(\d+[ab])(?::(\d+))?")
+BARE_REF = re.compile(r"(?<![\w\[:/.])(\d+[ab]):(\d+)(?![\w\]])")
+
+
+def linkify(note: str, default_tractate: str = "") -> str:
+    """Bavli refs written in a note ('Eruvin 65b:18', 'AZ 8b:19', 'Sanhedrin 17b', and continuations
+    such as 'Shabbat 37b:5, 52b:18') become sefaria: links. A bare '57b:4' takes the tractate of the
+    row's example ref."""
+    def sub(m):
+        tr = ABBREV.get(m.group(1), m.group(1)).replace(" ", "_")
+
+        def link(text, daf_seg):
+            d = ONE_REF.fullmatch(daf_seg)
+            ref = f"{tr}.{d.group(1)}" + (f".{d.group(2)}" if d.group(2) else "")
+            return f"[{text}](sefaria:{ref})"
+        first = link(f"{m.group(1)} {m.group(2)}", m.group(2))
+        rest = re.sub(r"\d+[ab](?::\d+)?", lambda x: link(x.group(0), x.group(0)), m.group(3))
+        return first + rest
+    # Leave existing Markdown links alone: only text outside [...](...) is changed.
+    def bare(m):
+        return f"[{m.group(0)}](sefaria:{default_tractate}.{m.group(1)}.{m.group(2)})"
+    out = []
+    for p in re.split(r"(\[[^\]]*\]\([^)]*\))", note):
+        if not (p.startswith("[") and "](" in p):
+            p = NOTE_REF.sub(sub, p)
+            if default_tractate:
+                p = "".join(q if q.startswith("[") and "](" in q else BARE_REF.sub(bare, q)
+                            for q in re.split(r"(\[[^\]]*\]\([^)]*\))", p))
+        out.append(p)
+    return "".join(out)
+
+
 groups = defaultdict(list)
 unmapped = []
 for f in sorted(gaz_dir.glob("*.csv")):
@@ -62,7 +102,7 @@ for f in sorted(gaz_dir.glob("*.csv")):
         sref = ref_to_sefaria(r["Bavli: example ref"])
         src = f"[{r['Bavli: example ref'].strip()}](sefaria:{sref})" if sref else r["Bavli: example ref"]
         note = (f"Bavli: {src} ({r['Bavli: hits']} segments). "
-                f"Gazetteer: “{r['Gazetteer: entry']}”. {r['Generated: note'].strip()}")
+                f"Gazetteer: “{r['Gazetteer: entry']}”. {linkify(r["Generated: note"].strip(), sref.split(".")[0] if sref else "")}")
         groups[h["id"]].append({"item": r["Generated: Hebrew form"].strip(), "note": note.strip(),
                                 "added": "gazetteer candidate", "review": "pending", "_src": f.stem})
 
