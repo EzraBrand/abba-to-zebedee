@@ -114,6 +114,10 @@ There are a number of other names that are played on in the Talmud: [^15]
 
 {{list:word-play-paronomasia-on-name}}
 
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:word-play-paronomasia-on-name-candidates}}
+
 ## Patterns within Individual Sages {#patterns-within-individual-sages}
 
 Important advances in modern scholarship have been made to identify the characteristics of particular sages. Recognizing the differences in personality as reflected in statements has been extensively developed over the past hundred years.[^16] These patterns are most obvious in the differences between Shammai and Hillel and their respective schools.[^17] Previously noted by the traditional commentators are the stylistic flourishes particular to specific Sages.[^18] Richard Kalmin especially discusses patterns to be found in individual Sages, as well as in a generation of Sages. In traditional sources, Heiman often points out patterns in statements. R’ Ahikam Kashet in his *Kovetz Yesodot Vechakirot* lists some of the patterns, calling them “*leshitatam*”.[^19] R' Reuven Margaliyot also often discusses these patterns. In recent biographies of individual Sages, patterns have been pointed out. The *Mishnat Eretz Yisrael* edition of Mishna also often points out patterns.
@@ -183,6 +187,10 @@ Another example:
 Examples of likely pseudonyms and epithets:[^73]
 
 {{list:pseudonyms-and-epithets}}
+
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:pseudonyms-and-epithets-candidates}}
 
 ## Slurs {#slurs}
 

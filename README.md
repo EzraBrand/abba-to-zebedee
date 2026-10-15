@@ -59,7 +59,7 @@ The link check also runs monthly as a GitHub Action (report as an artifact; it c
 | `bekiut.py` | Ref → Bekiut/Sefaria URL. |
 | `inventory.py`, `check_links.py`, `check_hamichlol.py`, `link_report.py` | Link inventory and link-rot check. |
 | `apply_link_fixes.py` | Writes redirect targets into `paper/`. |
-| `merge_gazetteer.py` | `reports/gazetteer/*.csv` (status `new`) → candidate lists in `paper/`. |
+| `merge_gazetteer.py` | `reports/gazetteer/*.csv` (status `new`) → candidate lists in `paper/`. Files merge in name order, so name a new pass so it sorts last (e.g. `update-2026-10.csv`). |
 | `fetch_sefaria_bavli.py`, `talmud_search.py` | Download the Bavli (Aramaic + Steinsaltz English) from the Sefaria export; regex search with Bekiut links. |
 | `convert_source.py`, `verify_migration.py` | One-time migration from the Google Docs export (kept for the record). |
 
