@@ -5,7 +5,7 @@ etymological-explanation-of-given-name-provided-by-the-talmud,Etymological Expla
 It is likely that the Talmud found the Greek name Nakdimon to be unusual to prompt this.",,
 word-play-paronomasia-on-name,Word Play (Paronomasia) on Name,1,המנונא,,,
 word-play-paronomasia-on-name,Word Play (Paronomasia) on Name,2,לכלוכית,,,
-word-play-paronomasia-on-name-candidates,Word Play (Paronomasia) on Name,1,איכו,Bavli: [Taanit 25a:7](sefaria:Taanit.25a.7) (1 segments). Gazetteer: “Ikku”. A neighbour of Rabbi Ḥanina ben Dosa: 'מה שמך? אמרה ליה איכו. אמר: איכו נימטו כשוריך' – he plays on her name (‘may your beams reach’). The Word Play list has only המנונא and לכלוכית.,gazetteer candidate,pending
+word-play-paronomasia-on-name-candidates,Word Play (Paronomasia) on Name,1,בלה,Bavli: [Yoma 83b:17](sefaria:Yoma.83b.17) (1 segments). Gazetteer: “Bala”. 'כי מטו לההוא ביתא דשמיה בלה לא עיילו לגביה ... דכתיב ואמר לבלה נאופים'. Rabbi Meir’s name reading; the same passage has כידור.,gazetteer candidate,pending
 variants-hypocorisms-and-shortenings,"Variants, Hypocorisms, and Shortenings",1,אביי \= אבא,,,
 variants-hypocorisms-and-shortenings,"Variants, Hypocorisms, and Shortenings",2,אוריין \= גוריון,"[אבא גוריון – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%90%D7%91%D7%90_%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%9F_%D7%90%D7%99%D7%A9_%D7%A6%D7%99%D7%93%D7%9F) : ""בתלמוד הירושלמי ובאסתר רבה שמו מופיע כ-""אבא אוריין איש צדיין"", תוך החלפת האות ג' באות א', כפי המצוי במבטא של אנשי ירושלים""",,
 variants-hypocorisms-and-shortenings,"Variants, Hypocorisms, and Shortenings",3,אסי \= איסי (?) \= אסא (?),"The name אסי may be a variant of the Biblical name אסא, see:  
@@ -94,6 +94,11 @@ mononyms,Mononyms,24,רבין,,,
 mononyms,Mononyms,25,רבינא,,,
 mononyms,Mononyms,26,שמאי,,,
 mononyms,Mononyms,27,שמואל,,,
+mononyms-candidates,Mononyms,1,תוטאי,Bavli: [Kiddushin 16b:16](sefaria:Kiddushin.16b.16) (1 segments). Gazetteer: “Tutai”. 'הא מני תוטאי הוא דתניא תוטאי אומר'. A tanna known by one name only.,gazetteer candidate,pending
+mononyms-candidates,Mononyms,2,בירא,Bavli: [Sukkah 27a:10](sefaria:Sukkah.27a.10) (1 segments). Gazetteer: “Beira”. 'אמר בירא אמר רבי אמי'. Transmits without a title.,gazetteer candidate,pending
+mononyms-candidates,Mononyms,3,מבוג,Bavli: [Zevachim 9b:4](sefaria:Zevachim.9b.4) (4 segments). Gazetteer: “Mavog”. 'אמר רב משמיה דמבוג'. Rav cites him by one name.,gazetteer candidate,pending
+mononyms-candidates,Mononyms,4,מפשאה,Bavli: [Nedarim 10b:7](sefaria:Nedarim.10b.7) (1 segments). Gazetteer: “Mafsha’a”. 'תני מפשאה'. Steinsaltz: 'the Sage Mafsha’a'.,gazetteer candidate,pending
+mononyms-candidates,Mononyms,5,סמליון,Bavli: [Sotah 13b:24](sefaria:Sotah.13b.24) (1 segments). Gazetteer: “Semalyon”. 'סמליון אמר וימת שם משה ספרא רבה דישראל'.,gazetteer candidate,pending
 no-surname,No surname,1,[רב אהרן](https://www.hamichlol.org.il/%D7%A8%D7%91_%D7%90%D7%94%D7%A8%D7%9F),,,
 no-surname,No surname,2,רבי בנאה,,,
 no-surname,No surname,3,רב ברונא,,,
@@ -180,7 +185,8 @@ pseudonyms-and-epithets,Pseudonyms and Epithets,15,שלמון,,,
 pseudonyms-and-epithets,Pseudonyms and Epithets,16,שמותי,"אורנשטיין, עמ' 2375 ואילך.",,
 pseudonyms-and-epithets,Pseudonyms and Epithets,17,תמר,"[Yevamot.34b.1](sefaria:Yevamot.34b.1) \-   
 “דאמר רבי יצחק: כל מועכות של בית רבי — תמר שמן, ולמה נקרא שמן תמר — על שם תמר שמעכה באצבעה.”",,
-pseudonyms-and-epithets-candidates,Pseudonyms and Epithets,1,שידא (יוסף שידא),Bavli: [Pesachim 110a:11](sefaria:Pesachim.110a.11) (4 segments). Gazetteer: “Yosef the demon”. 'אמר לי יוסף שידא'. A demon who taught Rav Yosef; also [Eruvin 43a:18](sefaria:Eruvin.43a.18). Yonatan שידא in [Yevamot 122a:9](sefaria:Yevamot.122a.9).,gazetteer candidate,pending
+pseudonyms-and-epithets-candidates,Pseudonyms and Epithets,1,שקוד,Bavli: [Ketubot 43b:2](sefaria:Ketubot.43b.2) (2 segments). Gazetteer: “Shakud”. 'שקוד אמרה. שקוד מנו? שמואל' – ‘the diligent one’ as a name for Shmuel.,gazetteer candidate,pending
+pseudonyms-and-epithets-candidates,Pseudonyms and Epithets,2,ורדימס,"Bavli: [Shabbat 118b:9](sefaria:Shabbat.118b.9) (1 segments). Gazetteer: “Vardimas”. Rabbi Yosei’s son, also called רבי מנחם ברבי יוסי: 'והאיכא ורדימס? ... ורדימס היינו רבי מנחם'.",gazetteer candidate,pending
 individuals,Individuals,1,X אחד,"""זקן אחד"" \- אורנשטיין, ערך ""זקן אחד"", עמ' 972 ואילך.   
 ""חסיד אחד"" \- אורנשטיין, עמ' 1151\. ראו שם ציטוט מהתלמוד: ""כל היכא דמאמרינן מעשה בחסיד אחד, או ר' יהודה בן בבא או ר' יהודה בר' עילאי.""  
 The phrase משום זקן אחד [appears seven times in the Talmud](https://www.sefaria.org/search?q=%D7%9E%D7%A9%D7%95%D7%9D%20%D7%96%D7%A7%D7%9F%20%D7%90%D7%97%D7%93&tab=text&tpathFilters=Talmud&tvar=0&tsort=relevance&svar=1&ssort=relevance).  
@@ -419,6 +425,7 @@ placeholder-name,Placeholder name,2,יוסף בן שמעון,,,
 placeholder-name,Placeholder name,3,פלוני,"[פלוני – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A4%D7%9C%D7%95%D7%A0%D7%99) : ""חז""ל משתמשים גם פעמים רבות ב""פלוני"" לתיאור מקרים משפטיים שונים (ואולם לעולם לא ""אלמוני"")""",,
 placeholder-name,Placeholder name,4,פלימו,"[פלימו – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A4%D7%9C%D7%99%D7%9E%D7%95) : "" יש הסוברים כי הכינוי ""פלימו"" הוא גרסה שונה למילה ""פלוני"" או ""פלמוני"""".",,
 placeholder-name,Placeholder name,5,"ראובן, שמעון, לוי, וכו'","[פלוני – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A4%D7%9C%D7%95%D7%A0%D7%99) : “דרך נפוצה אחרת היא שימוש בשמות ""ראובן"" ו""שמעון"" (ולעיתים גם לוי, וכן הלאה).”",,
+placeholder-name-candidates,Placeholder name,1,טוביה וזיגוד,Bavli: [Makkot 11a:15](sefaria:Makkot.11a.15) (1 segments). Gazetteer: “Zigud”. Proverb 'טוביה חטא וזיגוד מנגיד' (Toviyya sinned and Zigud is flogged). The list has חילק ובילק of the same type.,gazetteer candidate,pending
 individual,Individual,1,בר X,"[תולדות תנאים ואמוראים/ב/בר גלילא – ויקיטקסט](https://he.m.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%A8_%D7%92%D7%9C%D7%99%D7%9C%D7%90) : ""ואין זה שם פרטי אך בן גליל""  
 [תולדות תנאים ואמוראים/ב/בר דרומא](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%A8_%D7%93%D7%A8%D7%95%D7%9E%D7%90)",,
 individual-candidates,Individual,1,בר מחוזאה / בר מחוזא,"Bavli: [Bava_Kamma 115a:25](sefaria:Bava_Kamma.115a.25) (3 segments). Gazetteer: “resident of Meḥoza”. Anonymous 'a Meḥozan' beside נרשאה and פפונאה. A Bavli example for the בר X format; fn 143 cites only בר גלילא, בר דרומא.",gazetteer candidate,pending
@@ -594,6 +601,99 @@ etiological-explanations-provided-by-the-talmud-candidates,Etiological Explanati
 etiological-explanations-provided-by-the-talmud-candidates,Etiological Explanations Provided by the Talmud,2,בן חמצן,"Bavli: [Kiddushin 53a:9](sefaria:Kiddushin.53a.9) (1 segments). Gazetteer: “ben Ḥamtzan”. Talmud explains the name: a man snatched his and his fellow's share 'and they called him ben Ḥamtzan until the day he died'. Also fits 'Patronymic, Not Father's Name' and 'Slurs'.",gazetteer candidate,pending
 etiological-explanations-provided-by-the-talmud-candidates,Etiological Explanations Provided by the Talmud,3,בן סטדא / בן פנדירא,"Bavli: [Sanhedrin 67a:15](sefaria:Sanhedrin.67a.15) (3 segments). Gazetteer: “ben Stada”. Talmud explains the double name: 'his mother was Stada... as they say in Pumbedita, she strayed (סטת דא) from her husband'. Also fits Matronymic and Slurs. Not in paper in any spelling.",gazetteer candidate,pending
 patronymic-candidates,Patronymic,1,ברתיה דX / בת X,"Bavli: [Bava Batra 12b:6](sefaria:Bava_Batra.12b.6) (73 segments). Gazetteer: “the daughter of Rav Ḥisda”. Female patronymic. The Patronymic list has בר / בן / ברבי / בריה דX / בנו של, but no בת or ברתיה דX. Other examples: ברוריא ... ברתיה דרבי חנינא בן תרדיון; 'Daughter of Ḥakhinai' (בת חכינאי, [Ketubot 62b:12](sefaria:Ketubot.62b.12)). Count includes some non-name uses of בת רב(י).",gazetteer candidate,pending
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",1,בן אבישלום / אבשלום,[חנן בן אבישלום – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%97%D7%A0%D7%9F_%D7%91%D7%9F_%D7%90%D7%91%D7%99%D7%A9%D7%9C%D7%95%D7%9D),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",2,בן אבקולס,"[רבי זכריה בן אבקולס – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%96%D7%9B%D7%A8%D7%99%D7%94_%D7%91%D7%9F_%D7%90%D7%91%D7%A7%D7%95%D7%9C%D7%A1)  
+See Levin, “Midrashei”, p. 44, for a Talmudic wordplay on his name.",,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",3,בן אליקים,[רבי שמעון בן אליקים – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%A9%D7%9E%D7%A2%D7%95%D7%9F_%D7%91%D7%9F_%D7%90%D7%9C%D7%99%D7%A7%D7%99%D7%9D),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",4,בן אפקשיון,[תולדות תנאים ואמוראים/א/אפקשיון – ויקיטקסט](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%90/%D7%90%D7%A4%D7%A7%D7%A9%D7%99%D7%95%D7%9F),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",5,בן בוטא,[בבא בן בוטא – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%91%D7%91%D7%90_%D7%91%D7%9F_%D7%91%D7%95%D7%98%D7%90). Klein p. 331: nickname.,,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",6,בן ברקנא,Klein p. 332: nickname.,,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",7,בן גלגולא,[ישוע בן גלגולא – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%99%D7%A9%D7%95%D7%A2_%D7%91%D7%9F_%D7%92%D7%9C%D7%92%D7%95%D7%9C%D7%90),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",8,בני גונבי עלי,"Klein p. 333: nickname.  Name mentioned in [מגילת תענית, ה](https://he.wikisource.org/wiki/%D7%9E%D7%92%D7%99%D7%9C%D7%AA_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%94), on festival of Tu Be’av. See there also:   
+בני קוצעי קציעות ; בני סלמי הנטופתי.",,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",9,בן גלגולא / גלגולה,[ישוע בן גלגולא – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%99%D7%A9%D7%95%D7%A2_%D7%91%D7%9F_%D7%92%D7%9C%D7%92%D7%95%D7%9C%D7%90),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",10,בן גמדא,"[רבי חייא בר גמדא – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%97%D7%99%D7%99%D7%90_%D7%91%D7%A8_%D7%92%D7%9E%D7%93%D7%90). Klein p. 330: nickname (“lame”).  
+[רבי יהודה בן גמדא – המכלול](https://www.hamichlol.org.il/%D7%A8%D7%91%D7%99_%D7%99%D7%94%D7%95%D7%93%D7%94_%D7%91%D7%9F_%D7%92%D7%9E%D7%93%D7%90)  
+[רבי שמעון בן יהודה – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%A9%D7%9E%D7%A2%D7%95%D7%9F_%D7%91%D7%9F_%D7%99%D7%94%D7%95%D7%93%D7%94) \- “ ובמקבילה בבבלי סוטה מג,ב: ""בן גמדא”",,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",11,בן גרוש,Klein p. 334: nickname.,,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",12,בן דגלאי / דלגאי,[תולדות תנאים ואמוראים/א/ר' אלעזר בן דלגאי – ויקיטקסט](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%90/%D7%A8%27_%D7%90%D7%9C%D7%A2%D7%96%D7%A8_%D7%91%D7%9F_%D7%93%D7%9C%D7%92%D7%90%D7%99) . Klein p. 334: nickname.,,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",13,בן דהבאי,[תולדות תנאים ואמוראים/א/ר' אליעזר בן דהבאי – ויקיטקסט](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%90/%D7%A8%27_%D7%90%D7%9C%D7%99%D7%A2%D7%96%D7%A8_%D7%91%D7%9F_%D7%93%D7%94%D7%91%D7%90%D7%99). Klein p. 334: nickname.,,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",14,בן דורדיא,[רבי אלעזר בן דורדיא – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%90%D7%9C%D7%A2%D7%96%D7%A8_%D7%91%D7%9F_%D7%93%D7%95%D7%A8%D7%93%D7%99%D7%90),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",15,בן דורמסקית,"[רבי יוסי בן דורמסקית – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%A1%D7%99_%D7%91%D7%9F_%D7%93%D7%95%D7%A8%D7%9E%D7%A1%D7%A7%D7%99%D7%AA) : ""הפרשנים והחוקרים נתנו דעתם על השם ""דורמסקית"". יש המפרשים (ספר יוחסין השלם), כי מדובר בשם מקום מוצאו של רבי יוסי, שהעיד על עצמו שהוא מדמשק ומשמעות דורמסקית \= דמשק. לפי הסבר זה מתקבל השם ""יוסי איש דורמסקית"". לדעת אחרים (סדר הדורות), דורמסקית אינו שם מקום, אלא שמו של אביו של רבי יוסי. דעה נוספת היא דעת ר' בנימין זאב (וילהלם) בכר, כי דורמסקית היה שמה של אימו של רבי יוסי, וזו הייתה גיורת מדמשק"".  
+Klein p. 334: nickname.",,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",16,בן הסגן,"[רבי שמעון בן הסגן – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%A9%D7%9E%D7%A2%D7%95%D7%9F_%D7%91%D7%9F_%D7%94%D7%A1%D7%92%D7%9F)  
+ Klein p. 338: occupation.",,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",17,בן הקייף /  הקוף,"[אליהועיני בן הקוף – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%90%D7%9C%D7%99%D7%94%D7%95%D7%A2%D7%99%D7%A0%D7%99_%D7%91%D7%9F_%D7%94%D7%A7%D7%95%D7%A3)  
+Klein p. 338: nickname.",,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",18,בן הקצב,"[רבי זכריה בן הקצב – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%96%D7%9B%D7%A8%D7%99%D7%94_%D7%91%D7%9F_%D7%94%D7%A7%D7%A6%D7%91). אורנשטיין, עמ’2195 ואילך.",,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",19,בן זירוד / זירוז / זכור / זבור,"ישמעאל בן זירוד ; שמעון בן זירוד   
+See Jastrow, “זירוד”",,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",20,בן זמרה / זמרא,[רבי יוסי בן זמרה – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%A1%D7%99_%D7%91%D7%9F_%D7%96%D7%9E%D7%A8%D7%94),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",21,בן חבתא,Klein p. 338: nickname.,,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",22,בן חמצן,Klein p. 339: nickname.,,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",23,בן יהוצדק,[רבי שמעון בן יהוצדק – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%A9%D7%9E%D7%A2%D7%95%D7%9F_%D7%91%D7%9F_%D7%99%D7%94%D7%95%D7%A6%D7%93%D7%A7),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",24,בן לוגא / לוגה / לגס,"Klein p. 339: nickname. See Jastrow, “לוגא”.",,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",25,בן לקוניא,[רבי שמעון בן יוסי – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%A9%D7%9E%D7%A2%D7%95%D7%9F_%D7%91%D7%9F_%D7%99%D7%95%D7%A1%D7%99),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",26,בן מגוסת,Klein p. 340: nickname.,,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",27,בן מרגלות / מרגלא,Klein p. 345: nickname.,,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",28,בן נורי,[רבי יוחנן בן נורי – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%97%D7%A0%D7%9F_%D7%91%D7%9F_%D7%A0%D7%95%D7%A8%D7%99),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",29,בן נתנאל,[רבי שמעון בן נתנאל – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%A9%D7%9E%D7%A2%D7%95%D7%9F_%D7%91%D7%9F_%D7%A0%D7%AA%D7%A0%D7%90%D7%9C),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",30,בן סגנאי / סוגנאי,"[מנחם בן סגנאי – המכלול](https://www.hamichlol.org.il/%D7%9E%D7%A0%D7%97%D7%9D_%D7%91%D7%9F_%D7%A1%D7%92%D7%A0%D7%90%D7%99) : ""מנחם בן סגנאי היה צבע, וישעיהו פרס מעריך שהוא נקרא בן סגנאי על שם מקום מגוריו בכפר סגנא שבשומרון, ולא על שם אביו. כפר סגנא מוזכר במשנה \[...\]""  
+Klein p. 341: nickname.",,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",31,בן עגיל / עגול,[רבי חנינא בן עגיל – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%97%D7%A0%D7%99%D7%A0%D7%90_%D7%91%D7%9F_%D7%A2%D7%92%D7%99%D7%9C),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",32,בן עוזיאל,[יונתן בן עוזיאל – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%A0%D7%AA%D7%9F_%D7%91%D7%9F_%D7%A2%D7%95%D7%96%D7%99%D7%90%D7%9C),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",33,בן עמרם,[רבי יונתן בן עמרם – המכלול](https://www.hamichlol.org.il/%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%A0%D7%AA%D7%9F_%D7%91%D7%9F_%D7%A2%D7%9E%D7%A8%D7%9D),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",34,בן פיאבי / פי-אבי,"[ישמעאל בן פיאבי – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%99%D7%A9%D7%9E%D7%A2%D7%90%D7%9C_%D7%91%D7%9F_%D7%A4%D7%99%D7%90%D7%91%D7%99) . Klein p. 341, 347: family name.",,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",35,בן פכסס,[תולדות תנאים ואמוראים/ח/חוניא בן יוסף בן פכסס הכהן – ויקיטקסט](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%97/%D7%97%D7%95%D7%A0%D7%99%D7%90_%D7%91%D7%9F_%D7%99%D7%95%D7%A1%D7%A3_%D7%91%D7%9F_%D7%A4%D7%9B%D7%A1%D7%A1_%D7%94%D7%9B%D7%94%D7%9F),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",36,בן פלך,Klein p. 342: nickname.,,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",37,בן פרחיה,[יהושע בן פרחיה – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%91%D7%9F_%D7%A4%D7%A8%D7%97%D7%99%D7%94),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",38,בן צריפאי,Klein p. 345: nickname.,,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",39,בן קבוטל / קבוטר,[זכריה בן קבוטל – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%96%D7%9B%D7%A8%D7%99%D7%94_%D7%91%D7%9F_%D7%A7%D7%91%D7%95%D7%98%D7%9C),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",40,בן קופיא,[תולדות תנאים ואמוראים/ב/בן קופיא](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9F_%D7%A7%D7%95%D7%A4%D7%99%D7%90) . Klein p. 343: nickname.,,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",41,בן קיסמא,[רבי יוסי בן קיסמא – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%A1%D7%99_%D7%91%D7%9F_%D7%A7%D7%99%D7%A1%D7%9E%D7%90),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",42,בן קמחי,Klein p. 343: nickname.,,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",43,בן קנוסא / נקוסא,[רבי יהודה בן קנוסא – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%99%D7%94%D7%95%D7%93%D7%94_%D7%91%D7%9F_%D7%A7%D7%A0%D7%95%D7%A1%D7%90),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",44,בן קצרתא,"רבי יוסי בן קצרתא \- [https\://www\.sefaria.org.il/Midrash\_Tanchuma\_Buber%2C\_Noach.1.1](sefaria:Midrash_Tanchuma_Buber,_Noach.1.1)",,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",45,בן קרשי / קדושאי / קודשי,רבי יעקב בן קרשי \- [רבי יעקב (תנא) – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%99%D7%A2%D7%A7%D7%91_\(%D7%AA%D7%A0%D7%90\)),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",46,בן רועץ,"רבי יהודה בן רועץ   
+See Jastrow, “רועץ”",,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",47,בן ריפאי,"[תולדות תנאים ואמוראים/ב/בן דופאי](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9F_%D7%93%D7%95%D7%A4%D7%90%D7%99) : ""בתוספתא צוקרמנדל גורס בן ריפאי.""  
+Klein p. 343: nickname.",,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",48,בן תגלא,Klein p. 343: nickname.,,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",49,בן תדאי,[תולדות תנאים ואמוראים/א/ר' אלעזר בן תדאי – ויקיטקסט](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%90/%D7%A8%27_%D7%90%D7%9C%D7%A2%D7%96%D7%A8_%D7%91%D7%9F_%D7%AA%D7%93%D7%90%D7%99),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",50,בן תימא,[יהודה בן תימא – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%99%D7%94%D7%95%D7%93%D7%94_%D7%91%D7%9F_%D7%AA%D7%99%D7%9E%D7%90),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",51,בן תרדיון,[רבי חנינא בן תרדיון – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%97%D7%A0%D7%99%D7%A0%D7%90_%D7%91%D7%9F_%D7%AA%D7%A8%D7%93%D7%99%D7%95%D7%9F),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",52,בני רוכל,מוזכרים במשנה בבא בתרא ט ז. ראו [בני רוכל – ויקישיבה](https://www.yeshiva.org.il/wiki/index.php/%D7%91%D7%A0%D7%99_%D7%A8%D7%95%D7%9B%D7%9C),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",53,בר אנדריי,רבי חנינא בר אנדריי \- [תולדות תנאים ואמוראים/א/אנדריי – ויקיטקסט](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%90/%D7%90%D7%A0%D7%93%D7%A8%D7%99%D7%99),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",54,בר גדיא,"יודן בר גדיא \- [https\://www\.sefaria.org/Midrash\_Tanchuma%2C\_Ki\_Teitzei.9.1](sefaria:Midrash_Tanchuma,_Ki_Teitzei.9.1)  
+Jastrow, “גדיא 2”",,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",55,בר הינק,[רב הינק – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91_%D7%94%D7%99%D7%A0%D7%A7),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",56,בר זבינא / זמינא / זימונא,[רבי אבא בר זבינא – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%90%D7%91%D7%90_%D7%91%D7%A8_%D7%96%D7%91%D7%99%D7%A0%D7%90),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",57,בר חלוב,"[רב הונא בר חלוב – המכלול](https://www.hamichlol.org.il/%D7%A8%D7%91_%D7%94%D7%95%D7%A0%D7%90_%D7%91%D7%A8_%D7%97%D7%9C%D7%95%D7%91)  
+Rashi there says that it’s the name of a person. Unclear how he knows this.",,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",58,בר מדייא,"רבי חייא בר מדייא   
+On him see Assis, “Further”, p. 233 and f. 361\.",,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",59,בר ממל,"[רבי אבא בר ממל – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%90%D7%91%D7%90_%D7%91%D7%A8_%D7%9E%D7%9E%D7%9C) . Klein p. 340, 346: nickname or family name.  
+ראו גם מרגליות בשם ר' צבי חיות, ""לחקר"", עמ' ו, שהוא כינוי, ושנקרא כך ""על שביאר מלת ״ממל״"". ומרגליות חולק עליו.",,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",60,בר מרום,"רבי לעזר בר מרום  
+On him see Assis, “Further”, p. 229 and f. 301\.",,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",61,בר נבייתי,"Klein p. 341, 345: nickname.",,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",62,בר סוטר / ססרטאי / סוסרטאי / סיסרטאי,"[תולדות תנאים ואמוראים/ס/סוטר – ויקיטקסט](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%A1/%D7%A1%D7%95%D7%98%D7%A8)  
+[רבי שמואל בר סוטר](https://yaggada.haifa.ac.il/index.php?option=com_content&view=article&id=1278:2016-05-10-10-02-37&catid=4&Itemid=1563): ""כנראה רבי שמואל בר סוסרטאי""  
+[https\://www\.sefaria.org/Taanit.14a.4?](sefaria:Taanit.14a.4)",,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",63,בר סיסי / סוסי,"[לוי בר סיסי – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%9C%D7%95%D7%99_%D7%91%D7%A8_%D7%A1%D7%99%D7%A1%D7%99).  
+רבי אניינא / חנינא בר סוסי \- [אגדות התלמוד הירושלמי \- (רבי אניינא בר סוסי (אינייא בר סיסי](https://yaggada.haifa.ac.il/index.php?option=com_content&view=article&id=2108:2017-08-10-13-55-56&catid=4&Itemid=1563)  
+רבי יעקב בר סיסי / סוסי \- [https\://www\.sefaria.org/Jerusalem\_Talmud\_Berakhot.4.1.33](sefaria:Jerusalem_Talmud_Berakhot.4.1.33)  
+ Likely a toponym, meaning “from \[the [town of\] Susia](https://he.wikipedia.org/wiki/%D7%A1%D7%95%D7%A1%D7%99%D7%90_\(%D7%99%D7%99%D7%A9%D7%95%D7%91_%D7%A2%D7%AA%D7%99%D7%A7\))”.",,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",64,בר עשבי,Klein p. 330: nickname.,,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",65,בר פטיש,[רבי מני בר פטיש – המכלול](https://www.hamichlol.org.il/%D7%A8%D7%91%D7%99_%D7%9E%D7%A0%D7%99_%D7%91%D7%A8_%D7%A4%D7%98%D7%99%D7%A9),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",66,בר קיסנא,[תולדות תנאים ואמוראים/ק/קיסנא – ויקיטקסט](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%A7/%D7%A7%D7%99%D7%A1%D7%A0%D7%90),,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",67,בר קמצא,"[קמצא ובר קמצא – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A7%D7%9E%D7%A6%D7%90_%D7%95%D7%91%D7%A8_%D7%A7%D7%9E%D7%A6%D7%90)  
+See Levin, p. 44 and footnote 44\.",,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",68,בר קצצתה,"רבי יצחק בר קצצתה  
+On him see Assis, “Further”, p. 229 and f. 307\.",,
+patronymic-not-fathers-name,"Patronymic, Not Father's Name",69,בר שיקלי,"יודן בר שיקלי  
+On him see Assis, “Further”, p. 233 and f. 363\.",,
 patronymic-alone-no-given-name,"Patronymic Alone, No Given Name",1,בן בג בג,,,
 patronymic-alone-no-given-name,"Patronymic Alone, No Given Name",2,בן הא הא,,,
 patronymic-alone-no-given-name,"Patronymic Alone, No Given Name",3,בן דמה,"“שאל בן דמה, בן אחותו של ר' ישמעאל, את ר' ישמעאל: כגון אני, שלמדתי כל התורה כולה, מהו ללמוד חכמת יונית?” \- [Menachot.99b.18](sefaria:Menachot.99b.18)",,
@@ -631,24 +731,7 @@ patronymic-alone-no-given-name,"Patronymic Alone, No Given Name",25,בר פיק�
 patronymic-alone-no-given-name,"Patronymic Alone, No Given Name",26,בר קזא,“אמר רב נחמן בר יצחק: תני רב יהודה בר קזא במתניתא דבי בר קזא:” \- [Ketubot.104a.22](sefaria:Ketubot.104a.22). [תולדות תנאים ואמוראים/ב/בר קזא](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%A8_%D7%A7%D7%96%D7%90),,
 patronymic-alone-no-given-name,"Patronymic Alone, No Given Name",27,בר קפרא,[בר קפרא – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%91%D7%A8_%D7%A7%D7%A4%D7%A8%D7%90),,
 patronymic-alone-no-given-name,"Patronymic Alone, No Given Name",28,בר תוטני,“ואמר ריש לקיש משום בר תוטני:” \- [Shabbat.71a.6](sefaria:Shabbat.71a.6). [תולדות תנאים ואמוראים/ב/בר תוטני](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%A8_%D7%AA%D7%95%D7%98%D7%A0%D7%99),,
-patronymic-alone-no-given-name-candidates,"Patronymic Alone, No Given Name",1,בר קמצא,Bavli: [Gittin 55b:17](sefaria:Gittin.55b.17) (3 segments). Gazetteer: “bar Kamtza”. 'אקמצא ובר קמצא חרוב ירושלים' ([55b:16](sefaria:Gittin.55b.16)). Known only by the patronymic; קמצא is a different man.,gazetteer candidate,pending
-patronymic-alone-no-given-name-candidates,"Patronymic Alone, No Given Name",2,בן סירא,Bavli: [Bava Batra 146a:2](sefaria:Bava_Batra.146a.2) (9 segments). Gazetteer: “Ben Sira”. 'כתיב בספר בן סירא ... בן סירא אומר'. Also [Bava Batra 98b:6](sefaria:Bava_Batra.98b.6).,gazetteer candidate,pending
-patronymic-alone-no-given-name-candidates,"Patronymic Alone, No Given Name",3,בן בתירא,"Bavli: [Menachot 6a:20](sefaria:Menachot.6a.20) (7 segments). Gazetteer: “ben Beteira”. Used alone: 'בן בתירא אומר' (7 segments). The paper has the family בני בתירה (Groups), not the individual.",gazetteer candidate,pending
-patronymic-alone-no-given-name-candidates,"Patronymic Alone, No Given Name",4,בן קטין,Bavli: [Tamid 28b:1](sefaria:Tamid.28b.1) (7 segments). Gazetteer: “ben Katin”. 'קול העץ שעשה בן קטין מוכני לכיור'. High priest known only by the patronymic.,gazetteer candidate,pending
-patronymic-alone-no-given-name-candidates,"Patronymic Alone, No Given Name",5,בן דרוסאי,"Bavli: [Avodah Zarah 38a:12](sefaria:Avodah_Zarah.38a.12) (4 segments). Gazetteer: “ben Drosai”. 'כמאכל בן דרוסאי'. A robber, known from the halakhic measure named after him.",gazetteer candidate,pending
-patronymic-alone-no-given-name-candidates,"Patronymic Alone, No Given Name",6,בן אלעשה,Bavli: [Nedarim 51a:2](sefaria:Nedarim.51a.2) (5 segments). Gazetteer: “Ben Elasa”. 'בן אלעשה חתניה דרבי הוה ועשיר גדול הוה'.,gazetteer candidate,pending
-patronymic-alone-no-given-name-candidates,"Patronymic Alone, No Given Name",7,בן קמצר,Bavli: [Yoma 38a:6](sefaria:Yoma.38a.6) (2 segments). Gazetteer: “ben Kamtzar”. 'בן קמצר לא רצה ללמד על מעשה הכתב'. Also [38b:3](sefaria:Yoma.38b.3).,gazetteer candidate,pending
-patronymic-alone-no-given-name-candidates,"Patronymic Alone, No Given Name",8,בן ביבאי,Bavli: [Yoma 23a:10](sefaria:Yoma.23a.10) (1 segments). Gazetteer: “ben Beivai”. 'בן ביבאי ממונה על הפקיע' (one of the Temple officers).,gazetteer candidate,pending
-patronymic-alone-no-given-name-candidates,"Patronymic Alone, No Given Name",9,בן ארזא,"Bavli: [Tamid 33b:10](sefaria:Tamid.33b.10) (2 segments). Gazetteer: “ben Arza”. 'באו ועמדו אצל בן ארזא' (the cymbal player). [Avodah Zarah 58a:7](sefaria:Avodah_Zarah.58a.7) has a different man, רבי יוחנן בן ארזא.",gazetteer candidate,pending
-patronymic-alone-no-given-name-candidates,"Patronymic Alone, No Given Name",10,בן מגוסת,Bavli: [Yevamot 79b:6](sefaria:Yevamot.79b.6) (2 segments). Gazetteer: “ben Megusat”. 'העיד רבי יהושע בן בתירא על בן מגוסת שהיה בירושלים סריס אדם'.,gazetteer candidate,pending
-patronymic-alone-no-given-name-candidates,"Patronymic Alone, No Given Name",11,בן דונאי,Bavli: [Ketubot 27a:6](sefaria:Ketubot.27a.6) (1 segments). Gazetteer: “ben Donai”. 'כגון אשתו של בן דונאי' (a robber condemned to death).,gazetteer candidate,pending
-patronymic-alone-no-given-name-candidates,"Patronymic Alone, No Given Name",12,בן תמליון,"Bavli: [Meilah 17b:5](sefaria:Meilah.17b.5) (2 segments). Gazetteer: “ben Temalyon”. 'יצא לקראתו בן תמליון'. A demon, so the item may belong only if the paper includes non-human bearers.",gazetteer candidate,pending
-patronymic-alone-no-given-name-candidates,"Patronymic Alone, No Given Name",13,בן אבטיח,Bavli: [Bekhorot 37b:20](sefaria:Bekhorot.37b.20) (1 segments). Gazetteer: “Ben Avatiaḥ”. 'אגרופו של בן אבטיח'.,gazetteer candidate,pending
-patronymic-alone-no-given-name-candidates,"Patronymic Alone, No Given Name",14,בן תדל,Bavli: [Chullin 134a:13](sefaria:Chullin.134a.13) (1 segments). Gazetteer: “ben Tedal”. 'אל תשנה אותה אלא בלשון בן תדל'.,gazetteer candidate,pending
-patronymic-alone-no-given-name-candidates,"Patronymic Alone, No Given Name",15,בר פיולי,Bavli: [Chullin 96a:7](sefaria:Chullin.96a.7) (3 segments). Gazetteer: “bar Peyoli”. 'בר פיולי הוה קאי קמיה דשמואל'.,gazetteer candidate,pending
-patronymic-alone-no-given-name-candidates,"Patronymic Alone, No Given Name",16,בר ביניתוס,Bavli: [Sanhedrin 25a:7](sefaria:Sanhedrin.25a.7) (1 segments). Gazetteer: “bar Binittos”. 'בר ביניתוס אסהידו ביה תרי סהדי'.,gazetteer candidate,pending
-patronymic-alone-no-given-name-candidates,"Patronymic Alone, No Given Name",17,בר שישך,Bavli: [Avodah Zarah 65a:4](sefaria:Avodah_Zarah.65a.4) (1 segments). Gazetteer: “bar Sheshakh”. Rava’s gentile friend: 'פקע עיניה דבר שישך'.,gazetteer candidate,pending
-patronymic-alone-no-given-name-candidates,"Patronymic Alone, No Given Name",18,בר קיפוק / בר קיפוף,Bavli: [Moed Katan 25b:6](sefaria:Moed_Katan.25b.6) (2 segments). Gazetteer: “bar Kippok”. The eulogizer: 'לא בר קיפוק חליץ ולא בר אבין חליץ'. Spelled בר קיפוף in [Yevamot 103a:10](sefaria:Yevamot.103a.10).,gazetteer candidate,pending
+patronymic-alone-no-given-name-candidates,"Patronymic Alone, No Given Name",1,בן בתירא,"Bavli: [Menachot 6a:20](sefaria:Menachot.6a.20) (7 segments). Gazetteer: “ben Beteira”. Used alone: 'בן בתירא אומר' (7 segments). The paper has the family בני בתירה (Groups), not the individual.",gazetteer candidate,pending
 matronymic,Matronymic,1,בן אימא מרים,[תולדות תנאים ואמוראים/א/אימי מרים – ויקיטקסט](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%90/%D7%90%D7%99%D7%9E%D7%99_%D7%9E%D7%A8%D7%99%D7%9D),,
 matronymic,Matronymic,2,בן החורנית,"רבי יוחנן בן החורני (ת) (לעיתים נקרא רבי יוחנן החורני) \- [רבי יוחנן בן החורני – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%97%D7%A0%D7%9F_%D7%91%D7%9F_%D7%94%D7%97%D7%95%D7%A8%D7%A0%D7%99)  
 See Hachlili, p. 84\.",,
@@ -1689,3 +1772,324 @@ greek-and-latin-origin-candidates,Greek and Latin origin,1,קלוניקוס / ק
 greek-and-latin-origin-candidates,Greek and Latin origin,2,פפייס,"Bavli: [Nazir 16a:6](sefaria:Nazir.16a.6) (6 segments). Gazetteer: “Rabbi Pappeyas”. Tanna (with R. Yehoshua, Eduyot 7). Greek Pappias, cf. פפוס in the list - standard.",gazetteer candidate,pending
 greek-and-latin-origin-candidates,Greek and Latin origin,3,אבקולס,Bavli: [Gittin 56a:4](sefaria:Gittin.56a.4) (3 segments). Gazetteer: “Rabbi Zekharya ben Avkolas”. Father's name. Greek Eukolos 'easy-going' - commonly given. Fits Fathers' names too.,gazetteer candidate,pending
 persian-origin-candidates,Persian origin,1,סורחב,"Bavli: [Ketubot 17b:2](sefaria:Ketubot.17b.2) (1 segments). Gazetteer: “Surḥav bar Pappa”. Amora citing Ze'eiri. Middle Persian Suhrab (Sohrab) - commonly cited as an Iranian name of a Babylonian Jew. Jewish, not a gentile like the [Gittin 11a](sefaria:Gittin.11a) names.",gazetteer candidate,pending
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",1,"[**יוחנן בן פנחס**](https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%97%D7%A0%D7%9F_%D7%91%D7%9F_%D7%A4%D7%99%D7%A0%D7%97%D7%A1) על החותמות,",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",2,"[**אחיה**](https://he.wikipedia.org/wiki/%D7%90%D7%97%D7%99%D7%94_\(%D7%91%D7%99%D7%AA_%D7%94%D7%9E%D7%A7%D7%93%D7%A9\)) על הנסכים,",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",3,"[**מתתיה בן שמואל**](https://he.wikipedia.org/wiki/%D7%9E%D7%AA%D7%AA%D7%99%D7%94_%D7%91%D7%9F_%D7%A9%D7%9E%D7%95%D7%90%D7%9C) על הפיסות,",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",4,"[**פתחיה**](https://he.wikipedia.org/wiki/%D7%A4%D7%AA%D7%97%D7%99%D7%94_\(%D7%91%D7%99%D7%AA_%D7%94%D7%9E%D7%A7%D7%93%D7%A9\)) על הקנין. פתחיה, זה מרדכי \[...\]",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",5,"[**בן אחיה**](https://he.wikipedia.org/wiki/%D7%91%D7%9F_%D7%90%D7%97%D7%99%D7%94) על חולי מעים,",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",6,"[**נחוניא**](https://he.wikipedia.org/wiki/%D7%A0%D7%97%D7%95%D7%A0%D7%99%D7%90_%D7%97%D7%95%D7%A4%D7%A8_%D7%A9%D7%99%D7%97%D7%99%D7%9F) חופר שיחין**,**",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",7,"[**גביני**](https://he.wikipedia.org/wiki/%D7%92%D7%91%D7%99%D7%A0%D7%99) כרוז**,**",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",8,"[**בן גבר**](https://he.wikipedia.org/wiki/%D7%91%D7%9F_%D7%92%D7%91%D7%A8) על נעילת שערים,",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",9,"[**בן בבי**](https://he.wikipedia.org/wiki/%D7%91%D7%9F_%D7%91%D7%91%D7%99) על הפקיע,",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",10,"[**בן ארזה**](https://he.wikipedia.org/wiki/%D7%91%D7%9F_%D7%90%D7%A8%D7%96%D7%94) על הצלצל,",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",11,"[**הגרס בן לוי**](https://he.wikipedia.org/wiki/%D7%94%D7%95%D7%92%D7%A8%D7%A1_%D7%91%D7%9F_%D7%9C%D7%95%D7%99) על השיר,",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",12,"בית גרמו על מעשה לחם הפנים,",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",13,"בית אבטינס על מעשה הקטרת,",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",14,"[**אלעזר**](https://he.wikipedia.org/wiki/%D7%90%D7%9C%D7%A2%D7%96%D7%A8_\(%D7%91%D7%99%D7%AA_%D7%94%D7%9E%D7%A7%D7%93%D7%A9\)) על הפרוכות,",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",15,**ו[פנחס](https://he.wikipedia.org/wiki/%D7%9C%D7%A9%D7%9B%D7%AA_%D7%A4%D7%A0%D7%97%D7%A1_%D7%94%D7%9E%D7%9C%D7%91%D7%99%D7%A9)** על המלבוש,,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-2,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",1,יוחנן בן גודגדא על נעילת שערים,,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-2,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",2,[בן טוטפת](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9F_%D7%98%D7%95%D7%98%D7%A4%D7%AA) על המפתחות,,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-2,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",3,[בן דופאי](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9F_%D7%93%D7%95%D7%A4%D7%90%D7%99) על הלולב,,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-2,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",4,בן ארזא על הדוכן,,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-2,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",5,בנימין על התנורין,,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-2,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",6,שמואל על החביתין,,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-2,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",7,ו[בן מקליט](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9F_%D7%9E%D7%A7%D7%9C%D7%99%D7%98) על המלח,,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-2,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",8,[בן פלח](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9F_%D7%A4%D7%9C%D7%97_%D7%90%D7%95_%D7%A4%D7%9C%D7%9A) על העצים.,,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-3,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",1,"**נתאי איש תקוע** הביא חלות מביתר, ולא קבלו ממנו.",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-3,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",2,"אנשי אלכסנדריא הביאו חלותיהן מאלכסנדריא, ולא קבלו מהם.",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-3,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",3,"אנשי הר צבועים הביאו בכוריהם קדם עצרת, ולא קבלו מהם, מפני הכתוב שבתורה (שמות כג), וחג הקציר בכורי מעשיך אשר תזרע בשדה:",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-3,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",4,"[**בן אנטיגנוס**](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9F_%D7%90%D7%A0%D7%98%D7%99%D7%92%D7%A0%D7%95%D7%A1) העלה בכורות מבבל, ולא קבלו ממנו.",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-3,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",5,"[**יוסף הכהן**](https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%A1%D7%A3_%D7%94%D7%9B%D7%94%D7%9F_\(%D7%AA%D7%A0%D7%90\)) הביא בכורי יין ושמן, ולא קבלו ממנו. אף הוא העלה את בניו ובני ביתו לעשות פסח קטן בירושלים, והחזירוהו, שלא יקבע הדבר חובה.",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-3,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",6,"**אריסטון** הביא בכוריו מאפמיא, וקבלו ממנו, מפני שאמרו, הקונה בסוריא, כקונה בפרור שבירושלים:",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-4,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",1,"הלל, מן דדוד.",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-4,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",2,"[בן יצף](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9F_%D7%99%D7%A6%D7%A3), מן דאסף.",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-4,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",3,"בן ציצית הכסת, מן דאבנר.",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-4,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",4,"[בן קוביסין](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9F_%D7%A7%D7%95%D7%91%D7%99%D7%A1%D7%99%D7%9F), מן דאחאב.",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-4,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",5,"בן כלבא שבוע, מן דכלב.",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-4,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",6,"רבי יניי, מן דעלי",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-4,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",7,"מן יהודה, מן ציפורין.",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-4,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",8,"רבי חייה רבה, מבני שפטיה בן אבוטל.",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-4,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",9,"רבי יוסי בירבי חלפתא, מבני יונדב בן רכב.",,,
+explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-4,"Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim",10,"רבי נחמיה, מן נחמיה התרשתא.",,,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,1,אבא אומנא,[אבא אומנא – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%90%D7%91%D7%90_%D7%90%D7%95%D7%9E%D7%A0%D7%90),,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,2,אבוה בר גניבא,"“שלח ליה אבוה בר גניבא לרבא, ילמדנו רבינו:” \- [Bava\_Batra.139a.13](sefaria:Bava_Batra.139a.13)",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,3,אבטולמוס בר ראובן,"“אבטולמוס בר ראובן התירו לו לספר קומי, מפני שהוא קרוב למלכות.” \- [Bava\_Kamma.83a.3](sefaria:Bava_Kamma.83a.3)",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,4,אבימי בר נאזי,"“אבימי בר נאזי, חמוה דרבינא, הוה מסיק בההוא גברא ארבעה זוזי.” \- [Bava\_Kamma.115a.22](sefaria:Bava_Kamma.115a.22)",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,5,אדא,[Kiddushin.70b.10](sefaria:Kiddushin.70b.10) \- “אדא ויונתן – עבדי”,,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,6,אדא דיילא,[אדא דיילא – המכלול](https://www.hamichlol.org.il/%D7%90%D7%93%D7%90_%D7%93%D7%99%D7%99%D7%9C%D7%90),,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,7,אחא בר הידיא,"“ והא שלחו מתם: ״איך פלוניתא בת פלוני, קבילת גיטא מן ידא ד**אחא בר הידיא** דמתקרי ״איה מרי״” \- [Gittin.35a.17](sefaria:Gittin.35a.17)",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,8,אדא בר חבו,“אדא בר חבו הוה ליה בן פקועה דנפל דובא עליה” \- [Chullin.75b.12](sefaria:Chullin.75b.12),,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,9,איה מרי,"“ והא שלחו מתם: ״איך פלוניתא בת פלוני, קבילת גיטא מן ידא דאחא בר הידיא דמתקרי ״**איה מרי**״” \- [Gittin.35a.17](sefaria:Gittin.35a.17)",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,10,איסור,"[Bava\_Kamma.99b.23](sefaria:Bava_Kamma.99b.23) \- “אמר רב פפא: כי תניא אומן פטור – כגון דנכו ואיסור, דלא צריכי למיגמר כלל”",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,11,אלעזר בן דינאי,"[אלעזר בן דינאי – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%90%D7%9C%D7%A2%D7%96%D7%A8_%D7%91%D7%9F_%D7%93%D7%99%D7%A0%D7%90%D7%99): ""הוא נזכר בספריו של בן-תקופתו יוסף בן מתתיהו (שם מופיע שמו ביוונית, אלעזר בן דִינָאיוֹס) \[...\] במשנה נאמר: ”\[...\] משבא אלעזר בן דינאי, ותחינה בן פרישה \[...\] היה נקרא, חזרו לקרותו בֵּן הרצחן”""",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,12,אנדרולינאי נהרדעא,"[Yevamot.115b.9](sefaria:Yevamot.115b.9) \-   
+“דההוא גיטא דאשתכח בנהרדעא וכתיב: בצד קלוניא מתא אנא אנדרולינאי נהרדעא פטרית ותרכית ית פלונית אנתתי.”",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,13,אסי בר היני,"“עולא איקלע לבי אסי בר היני, בעו מיניה:” \- [Shabbat.147a.7](sefaria:Shabbat.147a.7)",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,14,באטי / בטי בר טובי / טוביה / טוביא,"[תולדות תנאים ואמוראים/ב/בטי (או באטי) בר טוביה – ויקיטקסט](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%98%D7%99_\(%D7%90%D7%95_%D7%91%D7%90%D7%98%D7%99\)_%D7%91%D7%A8_%D7%98%D7%95%D7%91%D7%99%D7%94)  
+Mentioned twice (TTA only mentions one):   
+[Avodah\_Zarah.76b.3](sefaria:Avodah_Zarah.76b.3) \- “כי הא דמר יהודה ובאטי בר טובי הוו יתבי קמיה דשבור מלכא” ; [Kiddushin.70b.10](sefaria:Kiddushin.70b.10) \- “בטי בר טוביה ברמות רוחא לא שקיל גיטא דחירותא”  
+ראו גם: [מי אתה באטי בר טובי? (עבודה זרה עו ע""ב)](https://daf-yomi.com/DYItemDetails.aspx?itemId=8731)",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,15,בוניוס / בונייס,"[Eruvin.83a.6](sefaria:Eruvin.83a.6):  
+""כי אתא רב דימי, אמר: שיגר **בוניוס** לרבי מודיא דקונדיס דמן נאוסא \[...\]""  
+ [Eruvin.85b.18-19](sefaria:Eruvin.85b.18-19):  
+""היכי דמי תפיסת יד? כגון חצירו של **בונייס**.   
+בן **בונייס** אתא לקמיה דרבי, אמר להו: פנו מקום לבן מאה מנה  \[...\]""",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,16,בן אלעשה,"“שאלו את רבי: איזהו תספורת של כ""ג? אמר להן: צאו וראו מתספורת של בן אלעשה. תניא: רבי אומר: לא על חנם פיזר בן אלעשה את מעותיו, אלא כדי להראות בו תספורת של כהן גדול: ” \- [Sanhedrin.22b.22](sefaria:Sanhedrin.22b.22)  
+[תולדות תנאים ואמוראים/ב/בן אלעשה](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9F_%D7%90%D7%9C%D7%A2%D7%A9%D7%94)",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,17,בן אנטינוס / אנטיגנוס,[Mishnah\_Challah.4.11](sefaria:Mishnah_Challah.4.11),,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,18,בן בוהיין,"“תנו רבנן: בן בוהיין נתן פיאה לירק, ובא אביו \[...\]” \- [Pesachim.57a.2](sefaria:Pesachim.57a.2)  
+[תולדות תנאים ואמוראים/ב/בן בוהיין (או בר בוהין)](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9F_%D7%91%D7%95%D7%94%D7%99%D7%99%D7%9F_\(%D7%90%D7%95_%D7%91%D7%A8_%D7%91%D7%95%D7%94%D7%99%D7%9F\)).  
+And see [Tosefta\_Kifshutah\_on\_Pesachim.3.20.4](sefaria:Tosefta_Kifshutah_on_Pesachim.3.20.4):  
+"" וכנראה שעיקר הגירסא היא ""בן בוהיין"", או ""בר בוהיין"", ופירושו בעל הבהונות הגדולים, כמו ששער ר""ש קליין בלשוננו ח""א (תרפ""ט), עמ' 331, עיי""ש.""",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,19,בן בטיח / אבטיח,"“ ומאור שלא נעשה בידי אדם, שעורו כמלא אגרוף גדול, זה הוא אגרופו של בן בטיח” \- [Mishnah\_Kelim.17.12](sefaria:Mishnah_Kelim.17.12)  
+[תולדות תנאים ואמוראים/ב/בן בטיח](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9F_%D7%91%D7%98%D7%99%D7%97) ; [אבא סיקרא – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%90%D7%91%D7%90_%D7%A1%D7%99%D7%A7%D7%A8%D7%90): ""**אַבָּא סִיקְרָא** (נולד בשנת 40 לספירה לערך, פירוש השם מארמית: ""אבי הפגיון"") הוא כינויו בתלמוד של **בן אבטיח** (המצוין גם כ""בן בטיח""), מנהיג הסיקריים בירושלים""",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,20,בן זזא,"“תנו רבנן: פעם אחת נתקשרו שמים בעבים \[...\] ואותו היום מתה אמו של בן זזא, והספידה רבן גמליאל הספד גדול.” \-   
+[Rosh\_Hashanah.25a.11](sefaria:Rosh_Hashanah.25a.11)  
+Steinzaltz: “And on that day the mother of the Sage ben Zaza died”. However, there’s no indication that he was a sage. In fact, the beraita specifically adds that she wasn’t worthy of a eulogy by Rabban Gamliel, but he eulogized her for a technical halachic reason: “לא מפני שראויה לכך, אלא כדי שידעו העם שלא קידשו בית דין את החדש”  
+[תולדות תנאים ואמוראים/ב/בן זזא](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9F_%D7%96%D7%96%D7%90)",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,21,בן לענא,,,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,22,בן סירא,"[בן סירא – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%91%D7%9F_%D7%A1%D7%99%D7%A8%D7%90#%D7%94%D7%99%D7%97%D7%A1_%D7%9C%D7%A1%D7%A4%D7%A8) \> ""היחס לספר"" ; [תולדות תנאים ואמוראים/ב/בן סירא](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9F_%D7%A1%D7%99%D7%A8%D7%90)",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,23,בן קמצר,"[בן קמצר – המכלול](https://www.hamichlol.org.il/%D7%91%D7%9F_%D7%A7%D7%9E%D7%A6%D7%A8) ; [תולדות תנאים ואמוראים/ב/בן קמצר](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9F_%D7%A7%D7%9E%D7%A6%D7%A8)  
+“תנו רבנן: בן קמצר לא רצה ללמד על מעשה הכתב \[...\]  ועל בן קמצר וחביריו נאמר: 'ושם רשעים ירקב' ” \- [Yoma.38b.3](sefaria:Yoma.38b.3)",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,24,בר ביניתוס,[תולדות תנאים ואמוראים/ב/בר ביניתוס](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%A8_%D7%91%D7%99%D7%A0%D7%99%D7%AA%D7%95%D7%A1),,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,25,בן כלבא שבוע,[כלבא שבוע – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%9B%D7%9C%D7%91%D7%90_%D7%A9%D7%91%D7%95%D7%A2) ; [תולדות תנאים ואמוראים/ב/בן כלבא שבוע](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9F_%D7%9B%D7%9C%D7%91%D7%90_%D7%A9%D7%91%D7%95%D7%A2),,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,26,בן ציון,"[בן ציון – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%91%D7%9F_%D7%A6%D7%99%D7%95%D7%9F) ; [תולדות תנאים ואמוראים/ב/בן ציון](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9F_%D7%A6%D7%99%D7%95%D7%9F)  
+[Mishnah\_Eduyot.8.7](sefaria:Mishnah_Eduyot.8.7) \- “משפחת בית צריפה היתה בעבר הירדן ורחקה בן ציון בזרוע, ועוד אחרת היתה שם וקרבה בן ציון בזרוע”",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,27,בן ציצית הכסת,[בן ציצית הכסת – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%91%D7%9F_%D7%A6%D7%99%D7%A6%D7%99%D7%AA_%D7%94%D7%9B%D7%A1%D7%AA) ; [תולדות תנאים ואמוראים/ב/בן ציצית הכסת](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9F_%D7%A6%D7%99%D7%A6%D7%99%D7%AA_%D7%94%D7%9B%D7%A1%D7%AA),,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,28,בן קדירה,"“ א""ר יהודה: מעשה בבן קדירה, שהיה כותב טפוסי גיטין בערב” \- [Tosefta\_Gittin.2.11](sefaria:Tosefta_Gittin.2.11)  
+[תולדות תנאים ואמוראים/ב/בן קידרה](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9F_%D7%A7%D7%99%D7%93%D7%A8%D7%94)",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,29,בן קטין,"[Mishnah\_Yoma.3.10](sefaria:Mishnah_Yoma.3.10) ; [Mishnah\_Tamid.1.4](sefaria:Mishnah_Tamid.1.4) ; [Mishnah\_Tamid.3.8](sefaria:Mishnah_Tamid.3.8)  
+[תולדות תנאים ואמוראים/ב/בן קטין](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9F_%D7%A7%D7%98%D7%99%D7%9F)",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,30,בן תדל / עדל,"[תולדות תנאים ואמוראים/ב/בן תדל](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9F_%D7%AA%D7%93%D7%9C). ראו שם: ""ופרש""י שוטה ששמו בן תדל, ובערוך ערך בן עדל מפרש שהיה אדם שלא היה מדקדק בשמועותיו""",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,31,בר אדא משוחאה,“אמר רבא: בר אדא משוחאה אסברה לי” \- [Eruvin.56b.7](sefaria:Eruvin.56b.7),,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,32,בר אדא סבולאה,"“בר אדא סבולאה (הוי) \[הוה\] קא מעבר חיותא אגמלא דנרש, דחפה חדא לחברתה ושדיתה במיא, אתא לקמיה דרב פפא” \- [Bava\_Metzia.93b.11](sefaria:Bava_Metzia.93b.11)",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,33,בר זיזא,"“ דאריסיה דבר זיזא אפקד גבי חד בר נש ליטרא דהב. מית בר זיזא ומית אריסיה דבר זיזא” \- [Jerusalem\_Talmud\_Bava\_Kamma.6.7.3](sefaria:Jerusalem_Talmud_Bava_Kamma.6.7.3)  
+[תולדות תנאים ואמוראים/ב/בר זוזא](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%A8_%D7%96%D7%95%D7%96%D7%90)",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,34,בר חמא,"“כי הא דבר חמא קטל נפשא” \- [Sanhedrin.27a.21](sefaria:Sanhedrin.27a.21)  
+[תולדות תנאים ואמוראים/ב/בר חמא](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%A8_%D7%97%D7%9E%D7%90)",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,35,בר כוזיבא / כוסבה / כוכבא,"[תולדות תנאים ואמוראים/ב/בן כוזבה או כוזיבא](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9F_%D7%9B%D7%95%D7%96%D7%91%D7%94_%D7%90%D7%95_%D7%9B%D7%95%D7%96%D7%99%D7%91%D7%90) ;  [בר כוכבא – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%91%D7%A8_%D7%9B%D7%95%D7%9B%D7%91%D7%90). ראו שם: ""עד גילוין של איגרותיו במערת האיגרות ובמערות מורבעת אף שמו לא היה ברור. על האיגרות חתם בשמו ""שמעון בן כוסבה הנשיא על ישראל"", ולעיתים הוא נזכר בהן בשמות ""בר כוסבא"" או ""בן כושבה"" (שי""ן שמאלית וסמ""ך מתחלפות בלשון חז""ל ובאגרות בר כוכבא). עד גילוי האיגרות לא הייתה ודאות אף באשר לשמו הפרטי, והניחו כי הוא ""שמעון נשיא ישראל"" המופיע במטבעות בר כוכבא. לפי התעתיק באיגרות היווניות שמו בוטא ""כוסיבא"" (Χωσιβα, בכ""ף רפה), וההבדל בין הגייה זו להגייה ""כוזיבא"" המופיעה במקורות התלמודיים (כולל מקורות אוהדים) הוא קטן. לדעת חנן אריאל, יש בכך כדי להפחית את סבירות ההשערה של רבי עזריה מן האדומים ורנ""ק שמקור הגרסה ""בן כוזיבא"" הוא בשיבוש שנועד ליצור כינוי גנאי של השם בידי מתנגדיו, מלשון כזב. דומה שהגרסה התלמודית ""בן כוזיבא"" אינה אלא וריאנט לשוני של ""בן כוסבה"", ואינה מבטאת עמדה כלפי בעל השם.  
+החוקרים העלו השערות שונות למקור שמו. לפי דעה אחת, כוסבא הוא שם נשי, ומדובר בשם אמו. לפי השערה אחרת, שהעלה ז'וזף מיליק, כוסבה משמעו כוספא דתמרי \- גוש של תמרים, כינוי אפשרי לאדם על שום צורת גופו. ייתכן ושמו קשור בשורש האכדי כֻּ-ז-בֻּ (kuzbu, Kuzzubu על פי Chicago Assyrian Dictionary) בהוראת שפע, צמחייה, פוריות, נמרצות, קסם-אישי בעוד המלה אכזב העברית מקבילה להוראת כּד'בּ (كاذب) הערבית  
+הועלתה השערה כי שמו הוא על שם יישוב מוצאו \- ייתכן היישוב כּוֹזֵבָא הנזכר בספר דברי הימים בתחום נחלת שבט יהודה. על גבול מדבר יהודה, בין בית לחם וחברון, מצויה חורבה הקרויה עד ימינו בשם ח'רבת כויזבה.  
+השם הידוע ""בר כוכבא"" (Barchōchebas) מופיע לראשונה בכתבי הבישוף אוסביוס מקיסריה, שחי בארץ ישראל כמאתיים שנה לאחר המרד \[...\] יש המשערים שתומכיו קראו לו בשם זה, כפי שדרש עליו רבי עקיבא את הפסוק ""דרך כוכב מיעקב"" (במ' כד, יז) \- דרך כוזבא מיעקב.""",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,36,בר לופייני,[תולדות תנאים ואמוראים/ב/בר לופייני](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%A8_%D7%9C%D7%95%D7%A4%D7%99%D7%99%D7%A0%D7%99),,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,37,בר מריון,"[תולדות תנאים ואמוראים/ב/בר מריון](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%A8_%D7%9E%D7%A8%D7%99%D7%95%D7%9F): ""היה עשיר גדול ובעל נכסים בזמן רב יוסף""",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,38,בר נטוזא,"“בר נטוזא איתגלי ליה גיגיתיה” \- [Jerusalem\_Talmud\_Terumot.8.3.8](sefaria:Jerusalem_Talmud_Terumot.8.3.8)  
+[תולדות תנאים ואמוראים/ב/בר נטיזא](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%A8_%D7%A0%D7%98%D7%99%D7%96%D7%90)",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,39,בר פטא,“חדא אמהא מן דבר פטא הוות עברה קומי חדא כנישא. חמת חד ספר מחי לחד מיינוק יתיר מן צורכיה.” \- [Jerusalem\_Talmud\_Moed\_Katan.3.1.11](sefaria:Jerusalem_Talmud_Moed_Katan.3.1.11). [תולדות תנאים ואמוראים/ב/בר פטא](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%A8_%D7%A4%D7%98%D7%90),,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,40,בר פיולי,"[תולדות תנאים ואמוראים/ב/בר פיולי](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%A8_%D7%A4%D7%99%D7%95%D7%9C%D7%99): ""היה מנקר בזמן שמואל""",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,41,בר תרימה,“בר תרימה אתא לגבי רבי אימי. אמר ליה. פייס לאבא דיסביני אתא.” \- [Jerusalem\_Talmud\_Kiddushin.1.7.2](sefaria:Jerusalem_Talmud_Kiddushin.1.7.2). [תולדות תנאים ואמוראים/ב/בר תרימה](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%A8_%D7%AA%D7%A8%D7%99%D7%9E%D7%94),,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,42,גביהה בן פסיסא,,,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,43,גידול בר רעילאי,[Gittin.34a.3](sefaria:Gittin.34a.3) ; [Gittin.58b.10](sefaria:Gittin.58b.10),,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,44,דואג בן יוסף,"[Yoma.38b.4](sefaria:Yoma.38b.4)  
+The name Doeg is a Biblical one, cf.:   
+[דואג האדומי – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%93%D7%95%D7%90%D7%92_%D7%94%D7%90%D7%93%D7%95%D7%9E%D7%99)",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,45,דימי בר קקוזתא,[תולדות תנאים ואמוראים/ד/דימי בר קקוזתא](https://he.m.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%93/%D7%93%D7%99%D7%9E%D7%99_%D7%91%D7%A8_%D7%A7%D7%A7%D7%95%D7%96%D7%AA%D7%90),,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,46,דמיטיניס,"ברתיה דדמיטיניס דטיביריא \-  
+[Jerusalem\_Talmud\_Shabbat.14.4.6](sefaria:Jerusalem_Talmud_Shabbat.14.4.6)  
+This person is a regular Jewish layperson, and is not the same as the Emperor Domitian.",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,47,דנכו,"[Bava\_Kamma.99b.23](sefaria:Bava_Kamma.99b.23) \- “אמר רב פפא: כי תניא אומן פטור – כגון דנכו ואיסור, דלא צריכי למיגמר כלל”",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,48,הורדוס,,,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,49,זבולון בן דן,[Kiddushin.30a.3](sefaria:Kiddushin.30a.3),,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,50,חבי בר ננאי,“אמר רבא: מנא אמינא לה — דהנהו תרי שטרי דנפקי במחוזא וכתיב בהו: **חבי בר ננאי** וננאי בר חבי” \- [Yevamot.115b.11](sefaria:Yevamot.115b.11),,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,51,יהודה בר פפא,[Kiddushin.70b.10](sefaria:Kiddushin.70b.10) \- “ יהודה בר פפא – ממזירא”,,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,52,יונתן,[Kiddushin.70b.10](sefaria:Kiddushin.70b.10) \- “אדא ויונתן – עבדי”,,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,53,יימר בר חשו,[Ketubot.84b.12](sefaria:Ketubot.84b.12),,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,54,ינאי,"[Sanhedrin.67b.19](sefaria:Sanhedrin.67b.19) \- “ינאי איקלע לההוא אושפיזא”.   
+This person is a regular layperson, and is not the same person as Rabbi Yanai.",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,55,ירמטיה / ירמטיא,"[Mishnah\_Arakhin.5.1](sefaria:Mishnah_Arakhin.5.1) \-  
+“מעשה באמה של ירמטיא”",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,56,ישו,,,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,57,יששכר איש כפר ברקאי,[יששכר איש כפר ברקאי – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%99%D7%A9%D7%A9%D7%9B%D7%A8_%D7%90%D7%99%D7%A9_%D7%9B%D7%A4%D7%A8_%D7%91%D7%A8%D7%A7%D7%90%D7%99),,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,58,כידור,"[Jerusalem\_Talmud\_Rosh\_Hashanah.3.9.2](sefaria:Jerusalem_Talmud_Rosh_Hashanah.3.9.2):  
+"" חד בר נש הוה שמיה **כידור**""",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,59,לוי בר סימון,“לוי בר סימון אקני פירות שובכו לרב יהודה” \- [Chullin.141b.21](sefaria:Chullin.141b.21),,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,60,מונבז,[מונבז השני – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%9E%D7%95%D7%A0%D7%91%D7%96_%D7%94%D7%A9%D7%A0%D7%99),,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,61,מנחם,"[Jerusalem\_Talmud\_Berakhot.2.4.12](sefaria:Jerusalem_Talmud_Berakhot.2.4.12). See there a long story about Menahem and his mother, set at the time of the Destruction of the Temple (70 CE).",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,62,ניפטיים הגר,[Yevamot.98a.4](sefaria:Yevamot.98a.4),,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,63,ניקנור,"[שער ניקנור – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A9%D7%A2%D7%A8_%D7%A0%D7%99%D7%A7%D7%A0%D7%95%D7%A8#%D7%9E%D7%A7%D7%95%D7%A8_%D7%94%D7%A9%D7%9D) \> ""מקור השם""",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,64,ננאי בר חבי,“אמר רבא: מנא אמינא לה — דהנהו תרי שטרי דנפקי במחוזא וכתיב בהו: חבי בר ננאי ו**ננאי בר חבי**” \- [Yevamot.115b.11](sefaria:Yevamot.115b.11),,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,65,סבטא,"[תולדות תנאים ואמוראים/ס/סבטא בן אלם – ויקיטקסט](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%A1/%D7%A1%D7%91%D7%98%D7%90_%D7%91%D7%9F_%D7%90%D7%9C%D7%9D)  
+See my article “[Automated Extraction of Over 1000 Unique Talmudic Names](https://www.ezrabrand.com/p/automated-extraction-of-over-1000)”, where I write:   
+“It is likely that Sabbeta is a variant of the Semitic name Shabbetai. The name Shabbetai is uncommon, but not unheard of (the story in the next section is about someone named Shabbetai). That name is related to the word Shabbat, and the Semitic name for Saturn. The name already appears in late Biblical works. See, at length, the Hebrew Wikipedia entry:  
+ “[שבתי (שם פרטי) – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A9%D7%91%D7%AA%D7%99_\(%D7%A9%D7%9D_%D7%A4%D7%A8%D7%98%D7%99\))“.",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,66,עולא בר קושב,[Jerusalem\_Talmud\_Terumot.8.4.11](sefaria:Jerusalem_Talmud_Terumot.8.4.11),,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,67,ענן בר חייא,"“ההוא גיטא דאשתכח בסורא וכתיב ביה הכי: בסורא מתא אנא **ענן בר חייא** נהרדעא פטרית ותרכית פלונית אנתתי.   
+ובדקו רבנן מסורא ועד נהרדעא, ולא הוה **ענן בר חייא** אחרינא לבר מ**ענן בר חייא** מחגרא דהוה בנהרדעא.   
+ואתו סהדי ואמור דההוא יומא כי איכתב ההוא גיטא, **ענן בר חייא** מחגרא גבן הוה.” \- [Yevamot.116a.3](sefaria:Yevamot.116a.3)",,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,68,פאפי יונאה,[Bava\_Batra.25b.14](sefaria:Bava_Batra.25b.14),,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,69,קטיעה בר שלום,,,
+list-of-named-jewish-commoners,List of Named Jewish Commoners,70,שבתאי,"שבתאי אצר פירי \- [Yoma.83a.1](sefaria:Yoma.83a.1)  
+שבתאי בר מרינוס \- [Beitzah.32b.3-4](sefaria:Beitzah.32b.3-4)",,
+list-of-named-jewish-commoners-candidates,List of Named Jewish Commoners,1,קמצא,Bavli: [Gittin 55b:16](sefaria:Gittin.55b.16) (3 segments). Gazetteer: “Kamtza”. 'אקמצא ובר קמצא חרוב ירושלים' – the friend of the host. בר קמצא is in the Ben Bag Bag list; קמצא is nowhere in the paper.,gazetteer candidate,pending
+list-of-named-jewish-commoners-candidates,List of Named Jewish Commoners,2,פינקאי,Bavli: [Keritot 28a:32](sefaria:Keritot.28a.32) (1 segments). Gazetteer: “Pinkai”. 'יוחנן בן נדבאי תלמידו של פינקאי'.,gazetteer candidate,pending
+list-of-named-jewish-commoners-candidates,List of Named Jewish Commoners,3,ערסלא,Bavli: [Yoma 66a:12](sefaria:Yoma.66a.12) (1 segments). Gazetteer: “Arsela”. 'מעשה והוליכו ערסלא וישראל היה' (he led the scapegoat).,gazetteer candidate,pending
+list-of-named-jewish-commoners-candidates,List of Named Jewish Commoners,4,פוגא,Bavli: [Bava Batra 90b:9](sefaria:Bava_Batra.90b.9) (1 segments). Gazetteer: “Fuga”. 'אמר ליה רבי יוסי ברבי חנינא לפוגא שמעיה' (his servant).,gazetteer candidate,pending
+list-of-named-jewish-commoners-candidates,List of Named Jewish Commoners,5,כייליל,Bavli: [Zevachim 118b:7](sefaria:Zevachim.118b.7) (1 segments). Gazetteer: “Kaylil”. 'חד ברא הוה ליה לכייליל' – Abaye’s father.,gazetteer candidate,pending
+list-of-named-jewish-commoners-candidates,List of Named Jewish Commoners,6,לולינוס ופפוס,"Bavli: [Taanit 18b:8](sefaria:Taanit.18b.8) (1 segments). Gazetteer: “Luleyanus”. Martyred brothers: 'כשבקש טוריינוס להרוג את לולינוס ופפוס אחיו בלודקיא'. The paper lists the names only for their Greek origin (לוליאנוס, פפוס).",gazetteer candidate,pending
+list-of-named-jewish-commoners-candidates,List of Named Jewish Commoners,7,בר קיפוק / בר קיפוף,Bavli: [Moed Katan 25b:6](sefaria:Moed_Katan.25b.6) (2 segments). Gazetteer: “bar Kippok”. The eulogizer. Not in the Fringes lists.,gazetteer candidate,pending
+list-of-named-jewish-commoners-candidates,List of Named Jewish Commoners,8,בן דונאי,Bavli: [Ketubot 27a:6](sefaria:Ketubot.27a.6) (1 segments). Gazetteer: “ben Donai”. 'אשתו של בן דונאי' (a robber condemned to death). Not in the Fringes lists.,gazetteer candidate,pending
+list-of-named-jewish-women,List of Named Jewish Women,1,איכו,[תולדות תנאים ואמוראים/א/איכו (שם אשה) – ויקיטקסט](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%90/%D7%90%D7%99%D7%9B%D7%95_\(%D7%A9%D7%9D_%D7%90%D7%A9%D7%94\)),,
+list-of-named-jewish-women,List of Named Jewish Women,2,אימא מרים,[Ketubot.87a.9](sefaria:Ketubot.87a.9) \- “אמר רב נחמן אמר שמואל משום אבא שאול בן אימא מרים”,,
+list-of-named-jewish-women,List of Named Jewish Women,3,אימא שלום,,,
+list-of-named-jewish-women,List of Named Jewish Women,4,אימרתא בת טלי,[Sanhedrin.52b.2](sefaria:Sanhedrin.52b.2) \- “אימרתא בת טלי בת כהן שזינתה הואי”,,
+list-of-named-jewish-women,List of Named Jewish Women,5,אמתא דבי רבי,[אמתא דבי רבי – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%90%D7%9E%D7%AA%D7%90_%D7%93%D7%91%D7%99_%D7%A8%D7%91%D7%99),,
+list-of-named-jewish-women,List of Named Jewish Women,6,אפרא הורמיז,,,
+list-of-named-jewish-women,List of Named Jewish Women,7,בבתא,[בבתא – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%91%D7%91%D7%AA%D7%90),,
+list-of-named-jewish-women,List of Named Jewish Women,8,בלוריא הגיורת,[תולדות תנאים ואמוראים/ב/בלוריא הגיורת – ויקיטקסט](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9C%D7%95%D7%A8%D7%99%D7%90_%D7%94%D7%92%D7%99%D7%95%D7%A8%D7%AA),,
+list-of-named-jewish-women,List of Named Jewish Women,9,ברוריה,[ברוריה – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%91%D7%A8%D7%95%D7%A8%D7%99%D7%94),,
+list-of-named-jewish-women,List of Named Jewish Women,10,דונג,"[Kiddushin.70a.16](sefaria:Kiddushin.70a.16) \- “אמר ליה: תיתי דונג תשקינן”  
+Probably equivalent to the name *Denag*, which was the name of a few Sasanian queens, see [Denag \- Wikipedia](https://en.wikipedia.org/wiki/Denag) and [Denag (sister of Ardashir I) \- Wikipedia](https://en.wikipedia.org/wiki/Denag_\(sister_of_Ardashir_I\))",,
+list-of-named-jewish-women,List of Named Jewish Women,11,הלני,[הלני המלכה – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%94%D7%9C%D7%A0%D7%99_%D7%94%D7%9E%D7%9C%D7%9B%D7%94),,
+list-of-named-jewish-women,List of Named Jewish Women,12,חובה,אשת רב הונא \- ראו [רב הונא – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91_%D7%94%D7%95%D7%A0%D7%90),,
+list-of-named-jewish-women,List of Named Jewish Women,13,חומא,[חומא – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%9E%D7%90),,
+list-of-named-jewish-women,List of Named Jewish Women,14,חנה,"[Taanit.23b.13](sefaria:Taanit.23b.13) \-  
+“אמר: לא מיקבלי עלי אינשי ביתי. אמר ליה: מה שמה? **חנה**. תתייפי חנה. ונתייפת. אמר ליה: קא מגנדרא עלי. אמר ליה: אי הכי תחזור חנה לשחרוריתה, וחזרה חנה לשחרוריתה.”  
+See also [Sanhedrin.5a.12](sefaria:Sanhedrin.5a.12) \-   
+""אמר מר: איבו, **וחנה**, ושילא, ומרתא, ורבי חייא, כולהו בני אבא בר אחא כרסלא מכפרי הוו""  
+However, the Talmud thereclearly  understands that all the children (*b’nei*) there are males.",,
+list-of-named-jewish-women,List of Named Jewish Women,15,חרותא,[Kiddushin.81b.3](sefaria:Kiddushin.81b.3) \- “ אמר לה: מאן את? אמרה: אנא חרותא דהדרי מיומא.”,,
+list-of-named-jewish-women,List of Named Jewish Women,16,טוי,[תולדות תנאים ואמוראים/ט/טוי – ויקיטקסט](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%98/%D7%98%D7%95%D7%99),,
+list-of-named-jewish-women,List of Named Jewish Women,17,יהודית,[יהודית (אשת רבי חייא) – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%99%D7%94%D7%95%D7%93%D7%99%D7%AA_\(%D7%90%D7%A9%D7%AA_%D7%A8%D7%91%D7%99_%D7%97%D7%99%D7%99%D7%90\)),,
+list-of-named-jewish-women,List of Named Jewish Women,18,ילתא,[ילתא – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%99%D7%9C%D7%AA%D7%90),,
+list-of-named-jewish-women,List of Named Jewish Women,19,כרכמית,"[Mishnah\_Eduyot.5.6](sefaria:Mishnah_Eduyot.5.6) \- “מעשה בכרכמית, שפחה משחררת שהיתה בירושלים, והשקוה שמעיה ואבטליון”",,
+list-of-named-jewish-women,List of Named Jewish Women,20,לכלוכית,"[Nedarim.66b.6](sefaria:Nedarim.66b.6) \- “. שמא שמה נאה? ״לכלוכית״ שמה. אמר להן: יפה קורין אותה לכלוכית, שהיא מלוכלכת במומין”",,
+list-of-named-jewish-women,List of Named Jewish Women,21,מעורת,"[Gittin.70a.23](sefaria:Gittin.70a.23) \- “והא מעורת עבדה ליה לעבדה תלת מינייהו, ומית\!”",,
+list-of-named-jewish-women,List of Named Jewish Women,22,מתון,"[Berakhot.20a.5](sefaria:Berakhot.20a.5) \- “אמר לה: מה שמך? אמרה ליה: מתון. אמר לה, מתון — מתון ארבע מאה זוזי שויא.”",,
+list-of-named-jewish-women,List of Named Jewish Women,23,מרים,"OD \# 2194-2197.  
+מרים בת בילגה \- [משמרת בילגה – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%9E%D7%A9%D7%9E%D7%A8%D7%AA_%D7%91%D7%99%D7%9C%D7%92%D7%94)  
+מרים התרמודית \- [Mishnah\_Nazir.6.11](sefaria:Mishnah_Nazir.6.11)  
+מרים ברת עלי בצלים \- [Jerusalem\_Talmud\_Chagigah.2.2.6](sefaria:Jerusalem_Talmud_Chagigah.2.2.6)  
+מרים מגדלא \- [מרים המגדלית – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%9E%D7%A8%D7%99%D7%9D_%D7%94%D7%9E%D7%92%D7%93%D7%9C%D7%99%D7%AA#%D7%9E%D7%A8%D7%99%D7%9D_%D7%94%D7%9E%D7%92%D7%93%D7%9C%D7%99%D7%AA_%D7%91%D7%9B%D7%AA%D7%91%D7%99_%D7%97%D7%96%22%D7%9C) \> ""מרים המגדלית בכתבי חז""ל""",,
+list-of-named-jewish-women,List of Named Jewish Women,24,מרתא,"OD \# 2202-2204.  
+[מרתא בת ביתוס – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%9E%D7%A8%D7%AA%D7%90_%D7%91%D7%AA_%D7%91%D7%99%D7%AA%D7%95%D7%A1)  
+See also [Sanhedrin.5a.12](sefaria:Sanhedrin.5a.12) \-   
+""אמר מר: איבו, וחנה, ושילא, ו**מרתא**, ורבי חייא, כולהו בני אבא בר אחא כרסלא מכפרי הוו""  
+However, the Talmud there clearly  understands that all the children (*b’nei*) there are males.  
+And see the short lecture by Dr. Henry Abramson, “[Rav Shmuel bar Marta Bava Kama 51” \- Jewish History in Daf Yomi \- *OU Torah*](https://outorah.org/p/183111)*,* where some medieval interpretations are discussed.",,
+list-of-named-jewish-women,List of Named Jewish Women,25,נפאתה,"[Gittin.63b.18](sefaria:Gittin.63b.18) \- “ההיא דהוו קרו לה ״נפאתה״, אזול סהדי כתוב ״תפאתה״.”",,
+list-of-named-jewish-women,List of Named Jewish Women,26,פזי,"[Yevamot.65b.18](sefaria:Yevamot.65b.18) \- “דאמר מר: יהודה וחזקיה אחי, פזי וטוי אחוותא.”",,
+list-of-named-jewish-women,List of Named Jewish Women,27,צפנת,[צפנת בת פניאל – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A6%D7%A4%D7%A0%D7%AA_%D7%91%D7%AA_%D7%A4%D7%A0%D7%99%D7%90%D7%9C),,
+list-of-named-jewish-women,List of Named Jewish Women,28,קמחית,[קמחית (אם הכהנים הגדולים) – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A7%D7%9E%D7%97%D7%99%D7%AA_\(%D7%90%D7%9D_%D7%94%D7%9B%D7%94%D7%A0%D7%99%D7%9D_%D7%94%D7%92%D7%93%D7%95%D7%9C%D7%99%D7%9D\)),,
+list-of-named-jewish-women,List of Named Jewish Women,29,שלומציון,[שלומציון המלכה – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A9%D7%9C%D7%95%D7%9E%D7%A6%D7%99%D7%95%D7%9F_%D7%94%D7%9E%D7%9C%D7%9B%D7%94),,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",1,אבלט,[תולדות תנאים ואמוראים/א/אבלט – ויקיטקסט](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%90/%D7%90%D7%91%D7%9C%D7%98),,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",2,אגרדמיס טייעא,[Bava\_Kamma.98a.2](sefaria:Bava_Kamma.98a.2),,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",3,אגריפס,,,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",4,אגריפס שר צבא,[Avodah\_Zarah.55a.2](sefaria:Avodah_Zarah.55a.2) \- “שאל אגריפס שר צבא את רבן גמליאל”,,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",5,אדריאנוס / אדריינוס / הדרייאנא,"OD \#225.   
+[Avodah\_Zarah.52b.12](sefaria:Avodah_Zarah.52b.12) \- “ אמר אביי בקשו לגנוז דינרא הדרייאנא טוריינא שיפא”  
+[Bereishit\_Rabbah.63.7](sefaria:Bereishit_Rabbah.63.7)",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",6,אזגור / איזגדר מלכא,"אזגור / איזגדר מלכא \- [תולדות תנאים ואמוראים/א/אזגור או איזגדר מלכא – ויקיטקסט](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%90/%D7%90%D7%96%D7%92%D7%95%D7%A8_%D7%90%D7%95_%D7%90%D7%99%D7%96%D7%92%D7%93%D7%A8_%D7%9E%D7%9C%D7%9B%D7%90)  
+ארסקינס מלכא \-  
+ [Jerusalem\_Talmud\_Yevamot.16.3.2](sefaria:Jerusalem_Talmud_Yevamot.16.3.2) ; [Jerusalem\_Talmud\_Sotah.9.3.2](sefaria:Jerusalem_Talmud_Sotah.9.3.2)  
+On Ursicinus, see also later.",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",7,אפרא הורמיז,"[תולדות תנאים ואמוראים/א/אפרא הורמיז אימיה דשבור מלכא, מלך פרס – ויקיטקסט](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%90/%D7%90%D7%A4%D7%A8%D7%90_%D7%94%D7%95%D7%A8%D7%9E%D7%99%D7%96_%D7%90%D7%99%D7%9E%D7%99%D7%94_%D7%93%D7%A9%D7%91%D7%95%D7%A8_%D7%9E%D7%9C%D7%9B%D7%90,_%D7%9E%D7%9C%D7%9A_%D7%A4%D7%A8%D7%A1). ושם כתב: ""והיטב כיון הגאון שי""ר בערך מלין צד 182 שאפרא הוא לשון פרסית ""אשת"" הורמיז המלך. ובנה שבור מלכא נתקסר בעודו בבטן אמו ואמו משלה בשמו עד אשר נתגדל כדמובא בדה""י למלכי פרס.""  
+There were many Sasanid kings named Shapur and Hormizd, see [Sasanian family tree \- Wikipedia](https://en.wikipedia.org/wiki/Sasanian_family_tree). The best fit for this explanation is that she was the wife of [Hormizd II](https://en.wikipedia.org/wiki/Hormizd_II), and the mother of [Shapur II](https://en.wikipedia.org/wiki/Shapur_II) (known as Shapur the Great).",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",8,אלכסנדר מוקדון,"[קטגוריה:אלכסנדר מוקדון – ויקיטקסט](https://he.wikisource.org/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%90%D7%9C%D7%9B%D7%A1%D7%A0%D7%93%D7%A8_%D7%9E%D7%95%D7%A7%D7%93%D7%95%D7%9F)  
+OD \# 410\.",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",9,אנטונינוס,"[רבי יהודה הנשיא – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%99%D7%94%D7%95%D7%93%D7%94_%D7%94%D7%A0%D7%A9%D7%99%D7%90#%D7%90%D7%A0%D7%98%D7%95%D7%A0%D7%99%D7%A0%D7%95%D7%A1_%D7%95%D7%A8%D7%91%D7%99) \> ""אנטונינוס ורבי""  
+OD \# 520\.",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",10,אנטיגנס / אגנטוס הגמון,"[Jerusalem\_Talmud\_Sanhedrin.1.4.10](sefaria:Jerusalem_Talmud_Sanhedrin.1.4.10). See  Levin, p. 51 footnote 34\.",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",11,אנטיוכוס,[קטגוריה:אנטיוכוס – ויקיטקסט](https://he.wikisource.org/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%90%D7%A0%D7%98%D7%99%D7%95%D7%9B%D7%95%D7%A1),,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",12,אסוירוס,"OD \# 532\. [Avodah\_Zarah.10b.11](sefaria:Avodah_Zarah.10b.11). “Severus” (with prosthetic aleph added in the Talmud’s transliteration, so likely pronounced by the Talmudic editors as “Aswerus”) is both the name of the father of Antoninus, as well as his son, in the stories in Avoda Zara:  
+10a \- son:   
+בעינא דימלוך אסוירוס ברי תחותי   
+10b \- father, and in [Pesachim.119a.11](sefaria:Pesachim.119a.11):  
+אנטונינוס בן אסוירוס",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",13,אספסיינוס,"[אספסיאנוס – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%90%D7%A1%D7%A4%D7%A1%D7%99%D7%90%D7%A0%D7%95%D7%A1)  
+OD \# 553\.",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",14,אפוסטמוס,"ראו [שבעה עשר בתמוז – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A9%D7%91%D7%A2%D7%94_%D7%A2%D7%A9%D7%A8_%D7%91%D7%AA%D7%9E%D7%95%D7%96)  
+OD \# 554\.",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",15,ארטבן / ארטבון / ארטבלון,"[תולדות תנאים ואמוראים/א/ארטבון – ויקיטקסט](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%90/%D7%90%D7%A8%D7%98%D7%91%D7%95%D7%9F)  
+Cf. [Artabanus IV of Parthia \- Wikipedia](https://en.wikipedia.org/wiki/Artabanus_IV_of_Parthia)",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",16,אריסטובולוס,,,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",17,ארנבת,"[Megillah.9b.3](sefaria:Megillah.9b.3):  
+“אשתו של תלמי ארנבת שמה”  
+It’s most likely, based on context, that “Arnevet” is the translation of her name from Greek, not a transliteration. See Norman Solomon, *Talmud*, for an explanation of this passage.   
+OD \# 568\.",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",18,ארסקינס,"OD \# 569\.  
+[Jerusalem\_Talmud\_Megillah.3.1.10](sefaria:Jerusalem_Talmud_Megillah.3.1.10) \- “חדא ארסקינס אוקיד אוריתא דצנבראי”  
+[Jerusalem\_Talmud\_Sheviit.4.2.5](sefaria:Jerusalem_Talmud_Sheviit.4.2.5) \- “רבי יונה ורבי יוסה הורון מפי לארסקינוס בשובתא”  
+Cf. [Ursicinus (magister equitum) \- Wikipedia](https://en.wikipedia.org/wiki/Ursicinus_\(magister_equitum\));   
+[מרד גאלוס – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%9E%D7%A8%D7%93_%D7%92%D7%90%D7%9C%D7%95%D7%A1) \> “דיכוי המרד”",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",19,ארקליס,"[Jerusalem\_Talmud\_Avodah\_Zarah.1.4.4](sefaria:Jerusalem_Talmud_Avodah_Zarah.1.4.4):  
+“ אנא דיקלטינוס מלכא שכנית אהן ירידה דצור לגדיה דארקליס אחי תמניא יומין”  
+“I, King Diocletian, settled this fair at Tyre to the genius of my brother Heraklius, eight days.”   
+Cited in [Jastrow, ""ארקליס""](sefaria:Jastrow,_ארקליס.1)  
+OD \# 570\.",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",20,בן דרוסאי,"לפי פירוש שמא פרידמן, היה גוי. ראו:  שמא פרידמן, ""מי היה בן דרוסאי"", *סידרא* יד (תשנ""ח), עמ' 77-91.  
+[מאכל בן דרוסאי – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%9E%D7%90%D7%9B%D7%9C_%D7%91%D7%9F_%D7%93%D7%A8%D7%95%D7%A1%D7%90%D7%99#%D7%96%D7%94%D7%95%D7%AA%D7%95_%D7%A9%D7%9C_%D7%91%D7%9F_%D7%93%D7%A8%D7%95%D7%A1%D7%90%D7%99) \> ""זהותו של בן דרוסאי"" ; [תולדות תנאים ואמוראים/ב/בן דרוסאי](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9F_%D7%93%D7%A8%D7%95%D7%A1%D7%90%D7%99)",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",21,בן נצר,"[אודינת – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%93%D7%99%D7%A0%D7%AA#%D7%90%D7%95%D7%93%D7%99%D7%A0%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8%D7%95%D7%AA_%D7%94%D7%AA%D7%9C%D7%9E%D7%95%D7%93%D7%99%D7%AA) \> ""אודינת בספרות התלמודית"" ; [תולדות תנאים ואמוראים/ב/בן נצר](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9F_%D7%A0%D7%A6%D7%A8)  
+בר ניצור \- ""בהדא ספסירא קטל בר ניצור לאחוי"" \-  
+ [Jerusalem\_Talmud\_Terumot.8.4.13](sefaria:Jerusalem_Talmud_Terumot.8.4.13)",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",22,בר עדי טייעא,[Avodah\_Zarah.33a.12](sefaria:Avodah_Zarah.33a.12),,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",23,בר שישך,"“רבא אמטי ליה קורבנא לבר שישך ביום אידם” \- [Avodah\_Zarah.65a.3](sefaria:Avodah_Zarah.65a.3)  
+[תולדות תנאים ואמוראים/ב/בר שישך](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%A8_%D7%A9%D7%99%D7%A9%D7%9A)",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",24,גורדינון,"דינר גורדינון \- [Jerusalem\_Talmud\_Yoma.4.4.11](sefaria:Jerusalem_Talmud_Yoma.4.4.11)  
+Meaning, “Gordian denarius”. Gordian may refer to (see [Gordian \- Wikipedia](https://en.wikipedia.org/wiki/Gordian)):  
+Gordian I (c.159–238), Roman emperor for one month with his son  
+Gordian II (c.192–238), son of Gordian I, Roman emperor for one month  
+Gordian III (225–244), grandson of Gordian I, Roman emperor from 238 to 244",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",25,גירא,"[Avodah\_Zarah.10b.2](sefaria:Avodah_Zarah.10b.2) \- “הוה ליה \[=אנטונינוס\] ההוא ברתא דשמה גירא”  
+This name is clearly fictitious.",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",26,גסקלגס,[קטגוריה:גסקלגס – ויקיטקסט](https://he.wikisource.org/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%92%D7%A1%D7%A7%D7%9C%D7%92%D7%A1),,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",27,דיקליטינוס מלכא /  דוקליטיינוס מלכא / דיקלטינוס / דוקלטינוס / דיקליטיאנס / דיקלוט / לוטיינוס,"[דיוקלטיאנוס – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%93%D7%99%D7%95%D7%A7%D7%9C%D7%98%D7%99%D7%90%D7%A0%D7%95%D7%A1) \> ""בספרות חז""ל""",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",28,דמא בן נתינה,[דמא בן נתינה – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%93%D7%9E%D7%90_%D7%91%D7%9F_%D7%A0%D7%AA%D7%99%D7%A0%D7%94),,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",29,דרו / דארו,Servant of Rav Nahman: [Pesachim.116a.12](sefaria:Pesachim.116a.12) ; [Berakhot.13b.21](sefaria:Berakhot.13b.21) ; [Shabbat.51a.7](sefaria:Shabbat.51a.7) ; [Bava\_Kamma.97a.5](sefaria:Bava_Kamma.97a.5),,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",30,המירס,"[הומרוס \- ויקיפדיה](https://he.wikipedia.org/wiki/%D7%94%D7%95%D7%9E%D7%A8%D7%95%D7%A1#%D7%AA%D7%A4%D7%95%D7%A6%D7%AA%D7%95_%D7%91%D7%9E%D7%A7%D7%95%D7%A8%D7%95%D7%AA_%D7%99%D7%94%D7%95%D7%93%D7%99%D7%9D) \> ""תפוצתו במקורות יהודים""  
+OD \# 975\.",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",31,זונין,"[Avodah\_Zarah.55a.4](sefaria:Avodah_Zarah.55a.4) \- “אמר ליה זונין לרבי עקיבא”. May be the same person as in [Pesachim.49a.2](sefaria:Pesachim.49a.2) \- “ ובא זונין ממונה של רבן גמליאל”. However, it’s more likely that Zunin in Avodah Zarah is not Jewish, like the rest of the interlocutors there.",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",32,זנביה מלכתא,"זנביה מלכתא \-  
+""אמרה להון **זנביה מלכתא**: יליף הוא ברייכון, עבד לכון ניסין, מעשיקין ביה.   
+עלל חד סרקיי, טעין חד ספסר.   
+אמר לון: בהדא ספסירא קטל **בר ניצור** לאחוי \[...\]""  
+\- [Jerusalem\_Talmud\_Terumot.8.4.13](sefaria:Jerusalem_Talmud_Terumot.8.4.13)  
+[זנוביה – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%96%D7%A0%D7%95%D7%91%D7%99%D7%94): ""ספטימיה זֶנוֹבּיה (בלטינית: Septimia Zenobia, בארמית: בת זבאי;‏ 240–275 לספירה) הייתה מלכת תדמור \[...\]  זנוביה הייתה אלמנתו של **אודינת (=בר נצר)** שהיה ממשפחת השלטון של העיר תדמור-פלמירה.""  
+ראו [זנוביה – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%96%D7%A0%D7%95%D7%91%D7%99%D7%94) \> ""זנוביה והיהודים""; [אודינת – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%93%D7%99%D7%A0%D7%AA#%D7%90%D7%95%D7%93%D7%99%D7%A0%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8%D7%95%D7%AA_%D7%94%D7%AA%D7%9C%D7%9E%D7%95%D7%93%D7%99%D7%AA) \> ""אודינת בספרות התלמודית"".",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",33,טוריינוס / טוריינא,[Avodah\_Zarah.52b.12](sefaria:Avodah_Zarah.52b.12) \- “ אמר אביי בקשו לגנוז דינרא הדרייאנא טוריינא שיפא”,,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",34,טורנוסרופוס,"[קווינטוס טיניאוס רופוס – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%95%D7%99%D7%A0%D7%98%D7%95%D7%A1_%D7%98%D7%99%D7%A0%D7%99%D7%90%D7%95%D7%A1_%D7%A8%D7%95%D7%A4%D7%95%D7%A1) \> ""בתלמוד""",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",35,טיטוס,,,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",36,יוסטני,[Niddah.45a.9](sefaria:Niddah.45a.9) \- “מעשה ביוסטני בתו של אסוירוס בן אנטנינוס”,,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",37,ישו,,,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",38,לחמן בר ריסתק,[Eruvin.63b.11](sefaria:Eruvin.63b.11),,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",39,ניקנור,"[שער ניקנור – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A9%D7%A2%D7%A8_%D7%A0%D7%99%D7%A7%D7%A0%D7%95%D7%A8#%D7%9E%D7%A7%D7%95%D7%A8_%D7%94%D7%A9%D7%9D) \> ""מקור השם"" \- לפי פירוש תלמוד ירושלמי, זה המצביא הסלאוקי בתקופת מרד החשמונאים (ראו [ניקנור – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A0%D7%99%D7%A7%D7%A0%D7%95%D7%A8))",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",40,נירון,,,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",41,עדי טייעא,[Menachot.69b.6](sefaria:Menachot.69b.6) ; [Avodah\_Zarah.33a.12](sefaria:Avodah_Zarah.33a.12),,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",42,פירוז רשיעא,"[Chullin.62b.8](sefaria:Chullin.62b.8)  
+ראו: [פירוז הראשון – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A4%D7%99%D7%A8%D7%95%D7%96_%D7%94%D7%A8%D7%90%D7%A9%D7%95%D7%9F)",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",43,פנדירא / פנטירא / סטדא,"Jesus’s father’s and/or mother’s name, according to the Talmud:  
+[Shabbat.104b.5](sefaria:Shabbat.104b.5) \-   
+“ תניא, אמר להן רבי אליעזר לחכמים: והלא **בן סטדא** הוציא כשפים ממצרים בסריטה שעל בשרו? אמרו לו: שוטה היה, ואין מביאין ראיה מן השוטים. ״**בן סטדא**״? **בן פנדירא** הוא\! אמר רב חסדא: **בעל ״סטדא״**, בועל **״פנדירא״**. בעל פפוס בן יהודה הוא? אלא אמו **״סטדא״**. אמו מרים מגדלא שער נשיא הואי? אלא כדאמרי בפומבדיתא: סטת דא מבעלה.”  
+Parallel passage in [Sanhedrin.67a.15](sefaria:Sanhedrin.67a.15)  
+[Jerusalem\_Talmud\_Avodah\_Zarah.2.2.11](sefaria:Jerusalem_Talmud_Avodah_Zarah.2.2.11) \-  
+“מעשה באלעזר בן דמא שנשכו נחש ובא יעקב איש כפר סמא לרפותו. אמר לו. נימא לך בשם ישו **בן פנדרא**”  
+See Christopher B Zeichmann, “[Jesus 'ben Pantera': An Epigraphic and Military-Historical Note](https://www.academia.edu/42958793/Jesus_ben_Pantera_An_Epigraphic_and_Military_Historical_Note)”, *Journal for the Study of the Historical Jesus* 18 (2020), pp. 141-155.",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",44,פרואה אמגושא,[Chullin.62b.8](sefaria:Chullin.62b.8),,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",45,פרוקלא,"[Jerusalem\_Talmud\_Sanhedrin.3.5.14](sefaria:Jerusalem_Talmud_Sanhedrin.3.5.14):  
+“רבי מנא כד עאל פרוקלא בציפורי \[...\] ”  
+""When Proclus entered Sepphoris \[...\]""  
+OD \# 2537\.",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",46,פרוקלוס,"פרוקלוס בן פלוספוס \-   
+[Mishnah Avodah Zarah (3:4](sefaria:Mishnah_Avodah_Zarah.3.4))",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",47,קונטרוקוס השר,"[Bekhorot.5a.8](sefaria:Bekhorot.5a.8)  
+Steinzaltz (cited [here](https://daf-yomi.com/Forums/Message.aspx?id=15417)) says this may be [Lusius Quietus \- Wikipedia](https://en.wikipedia.org/wiki/Lusius_Quietus).",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",48,קיטוס,"ראו [פולמוס קיטוס – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A4%D7%95%D7%9C%D7%9E%D7%95%D7%A1_%D7%A7%D7%99%D7%98%D7%95%D7%A1): ""המשנה מזכירה תקנות אבלות שגזרו בעקבות פולמוס \[של קיטוס\] \[...\] המשנה מדברת על פולמוס קיטוס \[...\] "". ושם הערה 10: "" משנה, סוטה ט, יד. יש נוסחאות שבהן כתוב טיטוס, אבל בעיקריות כתוב קיטוס.""  
+And see [Lusius Quietus \- Wikipedia](https://en.wikipedia.org/wiki/Lusius_Quietus) : “Lusius Quietus \[...\] was the principal commander against the Jewish rebellion known as the Kitos War (Kitos is a later corruption of Quietus).”",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",49,קליאופטרא,"[קלאופטרה – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A7%D7%9C%D7%90%D7%95%D7%A4%D7%98%D7%A8%D7%94#%D7%91%D7%A1%D7%A4%D7%A8%D7%95%D7%AA_%D7%97%D7%96%22%D7%9C) \> ""בספרות חז""ל""",,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",50,שבור מלכא,,,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",51,שעזרק טייעא,[Arakhin.6b.6](sefaria:Arakhin.6b.6),,
+list-of-named-non-jews-including-women,"List of Named Non-Jews, including Women",52,תלמי המלך,OD \# 2966\.,,
+list-of-named-non-jews-including-women-candidates,"List of Named Non-Jews, including Women",1,אדרכן,"Bavli: [Avodah Zarah 10b:16](sefaria:Avodah_Zarah.10b.16) (1 segments). Gazetteer: “Adrakan”. 'אנטונינוס שמשיה לרבי, אדרכן שמשיה לרב' – the Persian king who served Rav.",gazetteer candidate,pending
+list-of-named-non-jews-including-women-candidates,"List of Named Non-Jews, including Women",2,אבידרנא,Bavli: [Avodah Zarah 65a:1](sefaria:Avodah_Zarah.65a.1) (1 segments). Gazetteer: “Avidarna”. A gentile; Rav Yehuda: 'ידענא ביה דלא פלח לעבודה זרה'.,gazetteer candidate,pending
+list-of-named-non-jews-including-women-candidates,"List of Named Non-Jews, including Women",3,מבגאי,"Bavli: [Eruvin 64b:5](sefaria:Eruvin.64b.5) (2 segments). Gazetteer: “Mavgai”. Rabban Gamliel to a gentile: 'מבגאי, טול גלוסקין הללו מאילעאי'.",gazetteer candidate,pending
+list-of-named-angels-and-demons,List of Named Angels and Demons,1,אגרת בת מחלת,[אגרת בת מחלת – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%90%D7%92%D7%A8%D7%AA_%D7%91%D7%AA_%D7%9E%D7%97%D7%9C%D7%AA),,
+list-of-named-angels-and-demons,List of Named Angels and Demons,2,אליהו,"[גילוי אליהו – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%92%D7%99%D7%9C%D7%95%D7%99_%D7%90%D7%9C%D7%99%D7%94%D7%95#%D7%92%D7%99%D7%9C%D7%95%D7%99_%D7%90%D7%9C%D7%99%D7%94%D7%95_%D7%91%D7%AA%D7%9C%D7%9E%D7%95%D7%93) \> ""גילוי אליהו בתלמוד"".   
+ראו שם, פסקה ""זיהוי אליהו"": ""קיימות השערות שונות ביחס לזהותו של 'אליהו' בגילוי אליהו. הזיהוי המקובל מזהה אותו עם הדמות המקראית. דעה אחרת (רש""י בדפוסים, לבבלי קידושין ע.) טוענת שאין הכוונה לאליהו מהמקרא, אלא לשם של מלאך \[...\] לעומתם קיימת גישה רציונלית המזהה את 'אליהו' מאזכוריו בתלמוד כדמות ריאלית, כלומר, אמורא ששמו אליהו. אולם רבים יצאו נגד גישה זו \[...\]""",,
+list-of-named-angels-and-demons,List of Named Angels and Demons,3,אשמדאי,"[אשמדאי – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%90%D7%A9%D7%9E%D7%93%D7%90%D7%99#%D7%91%D7%9E%D7%A7%D7%95%D7%A8%D7%95%D7%AA_%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%99%D7%9D_%D7%91%D7%9E%D7%93%D7%A8%D7%A9_%D7%95%D7%91%D7%A7%D7%91%D7%9C%D7%94) \> ""במקורות הרבניים במדרש ובקבלה""",,
+list-of-named-angels-and-demons,List of Named Angels and Demons,4,בן נץ,"[Bava\_Batra.25a.5](sefaria:Bava_Batra.25a.5):  
+""ורוח דרומית קשה מכולן, ואילמלא בן נץ שמעמידה – מחרבת את העולם""",,
+list-of-named-angels-and-demons,List of Named Angels and Demons,5,בן תמליון,[תולדות תנאים ואמוראים/ב/בן תמליון](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/%D7%91/%D7%91%D7%9F_%D7%AA%D7%9E%D7%9C%D7%99%D7%95%D7%9F),,
+list-of-named-angels-and-demons,List of Named Angels and Demons,6,יוסף שידא,"[Pesachim.110a.11](sefaria:Pesachim.110a.11):   
+""אמר רב יוסף, אמר לי יוסף שידא \[...\]""",,
+list-of-named-angels-and-demons,List of Named Angels and Demons,7,מלאך המוות,"[האנשה של המוות – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%94%D7%90%D7%A0%D7%A9%D7%94_%D7%A9%D7%9C_%D7%94%D7%9E%D7%95%D7%95%D7%AA#%D7%9E%D7%9C%D7%90%D7%9A_%D7%94%D7%9E%D7%95%D7%95%D7%AA_%D7%91%D7%99%D7%94%D7%93%D7%95%D7%AA) \> ""מלאך המוות ביהדות"": ""בתלמוד הבבלי מסופר על חכם, רב ביבי בר אביי, שמלאך המוות היה מצוי בחברתו לעיתים תכופות \[...\]""",,
+list-of-named-angels-and-demons,List of Named Angels and Demons,8,סוריאל שר הפנים,"[Berakhot.51a.13](sefaria:Berakhot.51a.13):   
+""אמר רבי ישמעאל בן אלישע: שלשה דברים סח לי סוריאל שר הפנים \[...\]""",,

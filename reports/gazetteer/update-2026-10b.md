@@ -13,7 +13,7 @@ most 'name + second word' rows were misalignments of bare 'Title + Name' entries
 checked that every example segment contains its Hebrew form (0 mismatches here and in the five
 10-Oct passes).
 
-45 rows in `update-2026-10b.csv`: **22 new**, 7 uncertain, 13 variant-of-existing, 3 already-in-paper.
+45 rows in `update-2026-10b.csv`: **4 new**, 9 uncertain, 14 variant-of-existing, 18 already-in-paper.
 
 New items:
 - Patronymic Alone, No Given Name (18): בר קמצא, בן סירא, בן בתירא (used alone), בן קטין, בן דרוסאי,
@@ -26,3 +26,5 @@ Variants of existing items: בר תאוטני / תוטיני (listed בר תוט
 בר המדודי (listed המדורי), זוטראי, מנשי, אילפי, יודאפה, קרחינא, אבא סקרא, and (corrected later on 15-Oct)
 שזבי (listed רב שיזבי), שעורים (listed רב סעורם). Already in the paper: אצר פירי (listed אוצר פירי),
 הסגן (Non-Semitic word). סמיא is uncertain: possibly the listed סמא / סימאי.
+
+Update (15-Oct, later): after *Figures on the Fringes* and the Ben Bag Bag list were added to the paper, most of the Patronymic Alone items above are already in the paper (בן סירא, בן קטין, בר פיולי, בר קמצא …), and so are בן דרוסאי, בר שישך, בן תמליון, יוסף שידא. בר קיפוק and בן דונאי moved to update-2026-10d (Fringes: Jewish Commoners). Still new: בן בתירא (used alone), פדת, אביתר, יחזקאל.

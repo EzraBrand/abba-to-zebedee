@@ -157,6 +157,10 @@ Examples of mononyms:[^54]
 
 {{list:mononyms}}
 
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:mononyms-candidates}}
+
 ## No surname {#no-surname}
 
 Where the given name is a common name, and no patronymic or epithet, sometimes the Talmud itself will point out who stam Rabbi X is.   
@@ -267,6 +271,10 @@ See also [Bava\_Kamma.103b.11](sefaria:Bava_Kamma.103b.11):
 Examples in Talmud:[^138] 
 
 {{list:placeholder-name}}
+
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:placeholder-name-candidates}}
 
 ## Demonym {#demonym}
 
@@ -475,6 +483,10 @@ See also in this study, in the section “Pseudonym”.
 ### Patronymic, Not Father's Name {#patronymic-not-fathers-name}
 
 See my paper on the topic: “[Ben Bag Bag, Ben He He, and Beyond: Patronymics In Hazal Which Are Not Father's Names](https://www.academia.edu/97559307/Ben_Bag_Bag_Ben_He_He_and_Beyond_Patronymics_In_Hazal_Which_Are_Not_Fathers_Names)”.
+
+Items from that paper (v5, 10-May-23) that are not elsewhere in this survey, with its notes:
+
+{{list:patronymic-not-fathers-name}}
 
 ### Patronymic Alone, No Given Name[^203] {#patronymic-alone-no-given-name}
 
@@ -800,6 +812,60 @@ Yaakov Elman writes: “It should be recalled that R. Papa knows the difference 
 
 {{list:persian-origin-candidates}}
 
+# Figures on the Fringes: Named Non-rabbis in the Talmudic Literature {#figures-on-the-fringes}
+
+*Appended from a separate paper: Ezra Brand, “Figures on the Fringes: Named Non-rabbis in the Talmudic Literature”, v1.0, 5-June-2024.*
+
+As far as I’m aware, these are the most comprehensive lists to date of named non-rabbis in the Talmudic literature.[^1001]
+
+## Explicit Lists of Named Non-rabbis in the Mishnah, Tosefta, and Talmudim {#explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim}
+
+List of names in the Mishnah, [Mishnah\_Shekalim.5.1](sefaria:Mishnah_Shekalim.5.1):[^1002]  
+אלו הן הממנין שהיו במקדש:
+
+{{list:explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim}}
+
+List of names in [Tosefta\_Shekalim.2.14](sefaria:Tosefta_Shekalim.2.14):   
+אלו הן הממונין שהיו במקדש: 
+
+{{list:explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-2}}
+
+List of names in [Mishnah\_Challah.4.10-11](sefaria:Mishnah_Challah.4.10-11): 
+
+{{list:explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-3}}
+
+List of names in Talmud Yerushalmi, [Jerusalem\_Talmud\_Taanit.4.2.13](sefaria:Jerusalem_Talmud_Taanit.4.2.13):[^1003]  
+אמר רבי לוי: מגילת יוחסין מצאו בירושלם, וכתוב בה:
+
+{{list:explicit-lists-of-named-non-rabbis-in-the-mishnah-tosefta-and-talmudim-4}}
+
+## List of Named Jewish Commoners {#list-of-named-jewish-commoners}
+
+Jewish men who are not Rabbis.[^1004]
+
+{{list:list-of-named-jewish-commoners}}
+
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:list-of-named-jewish-commoners-candidates}}
+
+## List of Named Jewish Women[^1070] {#list-of-named-jewish-women}
+
+{{list:list-of-named-jewish-women}}
+
+## List of Named Non-Jews, including Women[^1098] {#list-of-named-non-jews-including-women}
+
+{{list:list-of-named-non-jews-including-women}}
+
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:list-of-named-non-jews-including-women-candidates}}
+
+## List of Named Angels and Demons[^1145] {#list-of-named-angels-and-demons}
+
+I only mention entities who interacted with Talmudic sages.
+
+{{list:list-of-named-angels-and-demons}}
 
 [^1]: See my “[Two Major Medieval Sources on Amoraic Chronology: R' Avraham ibn Daud's Sefer HaKabbalah and Meiri's 'Intro' to Commentary on Avot](https://www.academia.edu/109855855/Two_Major_Medieval_Sources_on_Amoraic_Chronology_R_Avraham_ibn_Dauds_Sefer_HaKabbalah_and_Meiris_Intro_to_Commentary_on_Avot)”.
 
@@ -1172,3 +1238,29 @@ Yaakov Elman writes: “It should be recalled that R. Papa knows the difference 
 [^695]: For a maximalist list of names of Greek etymology (many highly speculative), see Krauss, *Loan Words,* section \# 101 (p. 74ff).
 
 [^735]: Elman, “[Middle Persian Culture and Babylonian Sages: Accommodation and Resistance in the Shaping of Rabbinic Legal Tradition](https://www.academia.edu/36012322/Yaakov_Elman_Middle_Persian_Culture_and_Babylonian_Sages_Accommodation_and_Resistance_in_the_Shaping_of_Rabbinic_Legal_Tradition_in_Charlotte_Elisheva_Fonrobert_and_Martin_S_Jaffe_eds_Cambridge_Companion_to_Rabbinic_Literature_Cambridge_Cambridge_University_Press_2007_165_197),” in Charlotte Elisheva Fonrobert and Martin S. Jaffe, eds., *Cambridge Companion to Rabbinic Literature* (2007), p. 174\.
+
+[^1001]: Cf. Menachem Katz, “Introduction”, p. 15, in his critique of *Toldot Tanaim Ve’Amoraim*: “\[M\]any names were omitted \[by Heiman…\] The names of some of the non-Jews mentioned in Rabbinic literature, such as Hadrian, Dictilianus \[=Diocletian\], Turnus Rufus \[=Tineius Rufus\], and others (nor is the name “Jesus” listed), even though the names of other non-Jews are listed”.   
+    For a comprehensive introduction to names in the Talmudic literature, see my “[From Abba to Zebedee: A Comprehensive Survey of Naming Conventions in the Mishnah, Talmud, and Late Antique Midrash](https://www.academia.edu/94788129/From_Abba_to_Zebedee_A_Comprehensive_Survey_of_Naming_Conventions_in_the_Mishnah_Talmud_and_Late_Antique_Midrash)”. The current piece is a revised and updated version of a section of that paper.
+
+[^1002]: I analyze this Mishnah in my “[Fifteen Named Officials Who Served in Specific positions in the Late Second Temple, in the Context of Late Biblical Books (Mishnah, Shekalim 5:1)](https://www.ezrabrand.com/p/fifteen-named-officials-who-served)”.   
+    There I theorize: “It’s likely that — like Garmu and Avtinas — Aḥiya, Petaḥya, Bevai \[as well as Pinhas and Shmuel\] were clan names, and the Mishnah is not referring to a specific person with that name, but is saying that someone from that clan was responsible for that activity.” And in f. 2, citing Safrai commentary: “These two individuals \[=Yoḥanan ben Pineḥas and Aḥiya\] are not mentioned in other sources. The name Yohanan is very common and is among the six most common names of the period. Pinhas is also a fairly common name.”
+
+[^1003]: Discussed in my “[The Eight Second Temple Clans in the Schedule of the Wood Offering, Purported Descendants of Families mentioned in Late Biblical Books (Mishnah, Ta'anit 4:5)](https://www.ezrabrand.com/p/the-eight-second-temple-clans-in)”.
+
+[^1004]: My assumption is that a person mentioned in the Talmud is a commoner, if:
+
+    1. No honorific  
+    2. From the 2nd century on. Before that, honorifics were not common.  
+    3. No halacha cited in his name (i.e., he's not a tradent)
+
+     Cf.:  
+    [קטגוריה:יהודי תקופת בית שני – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%99%D7%94%D7%95%D7%93%D7%99_%D7%AA%D7%A7%D7%95%D7%A4%D7%AA_%D7%91%D7%99%D7%AA_%D7%A9%D7%A0%D7%99)  
+    [קטגוריה:אישים בתלמוד – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%90%D7%99%D7%A9%D7%99%D7%9D_%D7%91%D7%AA%D7%9C%D7%9E%D7%95%D7%93)
+
+[^1070]: Cf.:  
+     [קטגוריה:נשים בתלמוד – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%A0%D7%A9%D7%99%D7%9D_%D7%91%D7%AA%D7%9C%D7%9E%D7%95%D7%93)  
+    And cf. the anthology of passages by Olivia Devorah Tucker, “[Named Women in Talmud](https://www.sefaria.org.il/sheets/180234)”.
+
+[^1098]: Cf. OD, by ‘Place’ \= ‘Greece’ or ‘Rome’.
+
+[^1145]: Cf. the list of supernatural entities mentioned in Talmud Bavli, here: [Elyonim veTachtonim. System of Analysis of Supernatural Entities \- Centre for Comparative Studies of Civilisations](https://elyonimvetachtonim.project.uj.edu.pl/en_GB/categories/entities)
