@@ -483,6 +483,10 @@ Examples:
 
 {{list:patronymic-alone-no-given-name}}
 
+*Candidate additions from the [Talmud gazetteers](https://github.com/EzraBrand/talmud-nlp-indexer/tree/main/data), checked against the Bavli text; not yet reviewed:*
+
+{{list:patronymic-alone-no-given-name-candidates}}
+
 ### Matronymic {#matronymic}
 
 [Matronymic \- Wikipedia](https://en.wikipedia.org/wiki/Matronymic):  
